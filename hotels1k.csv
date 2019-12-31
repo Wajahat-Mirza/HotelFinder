@@ -1,0 +1,1001 @@
+hotelName,cityName,stars,price,countryName,address
+Seabreeze Resort,Upolu,3.5,256,Samoa,Paradise Cove Aufaga
+Princess Tui Inn Apia,Apia,2,99999,Samoa,1 Vaiala Beach Road PO Box 9590
+Hosteria Las Lengas - Tierra del Fuego,Tierra del Fuego,2.5,99999,Chile,Lago Blanco
+Hosteria Les Eclaireurs,Ushuaia,3,49,Argentina,Staiyakin 2676
+Hosteria Valle Frio,Ushuaia,3,76,Argentina,Hip√≥lito Bouchard 310
+La Posta Hostel,Ushuaia,1,20,Argentina,Peron Sur 864
+Tango B&B Ushuaia,Ushuaia,3,94,Argentina,Gobernador Valdez 950
+Casa Azul Familia Patagonica,El Calafate,1,54,Argentina,Calle 84 N 3056
+Design Suites Calafate,El Calafate,4,101,Argentina,Calle 94 Numero 190
+Hosteria Lago Tyndall,Torres del Paine,3,99999,Chile,SECTOR RIO SERRANO S/N
+Las Avutardas Hosteria,El Calafate,1,64,Argentina,Av Del Libertador 1737
+Los Ponchos Apart Boutique,El Calafate,3,98,Argentina,Los Alamos 3321 - Manantiales
+Sierra Nevada Hotel El Calafate,El Calafate,3,88,Argentina,Av. del Libertador 1888
+Estancia La Estela,Charles Fuhr,1,99999,Argentina,Ruta Nac. 40 y Paso del R√≠o La Leona Lago Viedma
+Hacienda Tres Lagos Hotel Puerto Guadal,Puerto Guadal,4,99999,Chile,Carretera Austral km 274
+Timber Tops Motor Park and Camping Ground Invercargill,Invercargill,3,99999,New Zealand,209 Tweed Street
+Cabanas Ayelen,Puerto Aisen,1,95,Chile,Hern√°n Mu√±oz Torres N¬∫ 655
+Hotel Y Caba√±as Patagonia Green,Puerto Aisen,4,190,Chile,Avenida Lago Riesco 350
+Alpine Village,Queenstown,2,99999,New Zealand,643 Frankton Road
+Bella Vista Queenstown,Queenstown,4,93,New Zealand,36 Robins Road
+Browns Boutique Hotel,Queenstown,4,221,New Zealand,26 Isle Street
+Central Ridge Boutique Hotel,Queenstown,5,175,New Zealand,4 Sydney Street
+Heritage Queenstown,Queenstown,4,99,New Zealand,91 Fernhill Road
+Matakauri Lodge Queenstown,Queenstown,5,1058,New Zealand,569 Glenorchy Road
+Sherwood Manor Hotel,Queenstown,3,65,New Zealand,554 Franktown Road
+Cromwell Motel,Cromwell,3,86,New Zealand,Corner Gair & Barry Avenue
+Abbey Lodge Dunedin,Dunedin,3,99999,New Zealand,900 Cumberland Street
+Dunedin & Academy Court Motels,Dunedin,4,90,New Zealand,624 George Street
+Kaimata Retreat,Dunedin,4,99999,New Zealand,297 Cape Saunders Road Papanui Inlet RD2 Portobello
+Leithview,Dunedin,3,90,New Zealand,234 Malvern Street Glenleith
+Leviathan Heritage Hotel,Dunedin,2,77,New Zealand,27 Queens Gardens
+Mandeno House,Dunedin,2.5,99999,New Zealand,667 George Street
+Arrowfield Apartments Arrowtown,Arrowtown,5,167,New Zealand,115 Essex Avenue Butel Park
+Arrowtown House Boutique Hotel,Arrowtown,4,398,New Zealand,10 Caernarvon Street
+The Canyons Lodge,Queenstown,4,328,New Zealand,13 Watties Track
+Websters on Wanaka Lodge,Wanaka,5,113,New Zealand,137 Anderson Rd
+The Residence,Lake Tekapo,4,196,New Zealand,1 Beauchamp Place
+Arjuna Ridge Retreat,Kettering (Australia),4,99999,Australia,72 Warremar Way
+Woodbridge Hill Hideaway,Woodbridge (Australia),4,256,Australia,369 Woodbridge Hill Road
+Heartland World Heritage Hotel,Haast,3,78,New Zealand,Corner State Highway 6 and Jacksons Bay Road
+Terrace Motel,Franz Josef,4,116,New Zealand,Cowan Street
+Snow Denn Lodge,Methven,3,99999,New Zealand,Corner Bank & McMillan Streets
+Abbey Motor Lodge,Christchurch,3,77,New Zealand,209 Bealey Avenue
+Airport Christchurch Luxury Motel & Apartments,Christchurch,4,129,New Zealand,55 Roydvale Avenue
+Akaroa Village Inn,Christchurch,4,99999,New Zealand,81 Beach Road Akaroa
+All Seasons Christchurch,Christchurch,3,99999,New Zealand,72 Papanui Road
+Amross Court Motor Lodge,Christchurch,4,109,New Zealand,61 Bealey Avenue
+BEST WESTERN Clyde on Riccarton,Christchurch,3.5,131,New Zealand,280 Riccarton Road
+City Centre Motel Christchurch,Christchurch,4,110,New Zealand,876 Colombo Street
+Flag Hotel Camelot Cathedral Square,Christchurch,3,99999,New Zealand,66 Cathedral Square
+Huntley House,Christchurch,5,242,New Zealand,67 Yaldhurst Road
+Poplars Apartment Christchurch,Christchurch,4.5,99999,New Zealand,Corner Madras and Chester Streets
+Purple-Der House Accommodation,Christchurch,3,50,New Zealand,148 Palmers Road
+Curringa Farm,Hamilton (Tasmania),4,200,Australia,5831 Lyell Highway
+Fountainside Hotel,Hobart,4,117,Australia,40 Brooker Avenue
+Hobart Gables Apartments,Hobart,4,158,Australia,Units 1 & 2 2 Stoke Street TAS 7008
+Lindisfarne Motor Inn,Hobart,3,60,Australia,101-105 East Derwent Highway Lindisfarne TAS 7015 Australia
+Martin Cash Motel Hobart,Hobart,3,93,Australia,238 Main Road Glenorchy
+Motel 429 Hobart,Hobart,4,108,Australia,429 Sandy Bay Road
+Salamanca Terraces,Hobart,4,176,Australia,93 Salamanca Place
+Taras Richmond Farmstay,Richmond (Tasmania),3,133,Australia,31 Ogilvie Lane
+Tynwald Willow Bend Estate,New Norfolk,4,148,Australia,1 Tynwald Road
+Awatuna Homestead,Hokitika,4,211,New Zealand,9 Stafford Road
+Charles Court Motel,Greymouth,4,77,New Zealand,350 Main South Road
+Hanmer Inn Motel,Hanmer Springs,4,110,New Zealand,16 Jacks Pass Road
+Heritage Hanmer Springs,Hanmer Springs,4,116,New Zealand,1 Conical Hill Road
+Bella Vista Motel Kaikoura,Kaikoura,4,96,New Zealand,45-47 Churchill St.
+Kaikoura Boutique Hotel,Kaikoura,4,109,New Zealand,146 Esplande
+Kaikoura Gateway Motor Lodge,Kaikoura,4,113,New Zealand,16-18 Churchill Street State Highway 1
+The Factory,Kaikoura,5,99999,New Zealand,5 Hapuku Rd
+The Old Convent Bed & Breakfast Kaikoura,Kaikoura,2,99999,New Zealand,278 Mt Fyffe Road
+Hostal Tren del Sur,Puerto Montt,3,57,Chile,Santa Teresa 643
+460 Loft,San Carlos de Bariloche,1.5,99999,Argentina,San Martin 460
+Apart Hotel El Viejo Cipres San Carlos de Bariloche,San Carlos de Bariloche,2,54,Argentina,Av. Bustillo 6.346 - Ruta al LLao Llao
+Bungalows Prema Apart San Carlos de Bariloche,San Carlos de Bariloche,3,99999,Argentina,Lagos Del Sur 380
+Caba√±as Villa Sof√≠a San Carlos de Bariloche,San Carlos de Bariloche,3,51,Argentina,Av. de los Pioneros 100
+Hosteria Nuevo Pinar,San Carlos de Bariloche,3,42,Argentina,E. Bustillo 7810
+Hotel Bariloche San Carlos de Bariloche,San Carlos de Bariloche,1,58,Argentina,Quaglia 338
+Punta Condor Hotel San Carlos de Bariloche,San Carlos de Bariloche,3,99999,Argentina,Acceso A Cerro Catedral
+Bischoff Hotel Waratah,Waratah,3,99999,Australia,20 Main Street
+Cradle Mountain Chateau,Cradle Mountain,4,152,Australia,Cradle Mountain Road
+Cradle Mountain Lodge,Cradle Mountain,4,206,Australia,4038 Cradle Mountain Road
+Cradle Chalet Boutique Luxury Lodge Wilmot (Australia),Moina,4.5,148,Australia,1422 Cradle Mountain Road
+Hawley House Hotel Port Sorell,Port Sorell,4,272,Australia,68 Esplanade Hawley Beach
+Shearwater Cottages Port Sorell,Port Sorell,4,119,Australia,9 Shearwater Boulevade
+Fionas Bed and Breakfast - Launceston B&B,Launceston,4,91,Australia,141a George Street Launceston 7250 TAS
+Hargate,Launceston,5,99999,Australia,191 George Street Launceston Tasmania 7250
+Launceston View Apartments,Launceston,4,122,Australia,2 Hillside Cres cnr Hillside cres and Canning street
+The Ocean Retreat Tasmania,Falmouth (Australia),4,99999,Australia,25C Morrison Street
+Black & White Hotel Westport,Westport,2,99999,New Zealand,198 Palmerston Street
+Charming Creek Bed and Breakfast,Westport,4.5,109,New Zealand,24 Main Road
+Riverview Lodge Westport,Westport,4,99999,New Zealand,State Highway 6 Lower Buller Gorge
+Arthur Wakefield Motor Inn,Nelson,3,99999,New Zealand,294 Queen Street
+Asure Sundowner Motel,Blenheim,4,108,New Zealand,132 Middle Renwick Road
+California House Inn Nelson,Nelson,4,99999,New Zealand,29 Collingwood Street
+Hat Trick Lodge Backpackers Hostel,Motueka,3,99999,New Zealand,25 Wallace Street
+Olde Millhouse B & B,Renwick,4,99999,New Zealand,9 Wilson Street
+Timara Lodge,Blenheim,5,99999,New Zealand,Dog Point Road
+Tuscany Gardens Motor Lodge,Nelson,4,110,New Zealand,80 Tahunanui Drive
+Escape to Picton Boutique Hotel,Picton (New Zealand),5,240,New Zealand,33 Wellington Street
+Complejo Aspen,San Martin de los Andes,2,99999,Argentina,Coronel P√©rez 1127
+Hosteria Hueney Ruca,San Martin de los Andes,2,59,Argentina,Gabriel Obeid 697 Esq.Teniente Coronel Perez
+Hotel Antiguos,San Martin de los Andes,3,59,Argentina,Coronel diaz 753
+Las Ramblas de Puerto Manzano,Villa La Angostura,4,138,Argentina,Ruta 231 Km. 55.5 Puerto Manzano
+Rucaleufu Apart-Hotel,San Martin de los Andes,2,84,Argentina,El Oasis 220
+Rosebank Cottage Collection Smithton,Smithton,4,154,Australia,46 Brooks Road
+Tall Timbers Hotel Smithton,Smithton,4,132,Australia,5 Scotchtown Road
+Sans Souci Inn,Takaka,2,99999,New Zealand,11 Richmond Road
+Beachfront Kapiti Bed & Breakfast Paraparaumu,Paraparaumu,2,99999,New Zealand,Paraparaumu 71 Manly Street
+Colonial Court Motel Palmerston North,Palmerston North,4,93,New Zealand,305 Fitzherbert Avenue
+Hotel Salto Del Carileufu,Pucon,3,99999,Chile,km 19 Camino
+Munich Hotel,Pucon,3,99999,Chile,Geronimo De Alderete 275
+Oakura Beach Motel,Oakura,3,93,New Zealand,53 Wairau Road Oakura
+93 By the Sea,New Plymouth,2.5,99999,New Zealand,93 Buller Street
+Fitzroy Beach Motel,New Plymouth,4,131,New Zealand,25 Beach Street Fitzroy
+Issey Manor Fine Accommodation,New Plymouth,4,99999,New Zealand,32 Carrington Street
+Nice Hotel & Bistro,New Plymouth,4,226,New Zealand,71 Brougham Street
+Pukekura Motor Lodge,New Plymouth,5,119,New Zealand,141 Coronation Avenue
+Skotel Alpine Resort,Whakapapa,3,53,New Zealand,Tongariro National Park
+Marineland Motels,Napier,4,81,New Zealand,19 Meeanee Quay
+Scenic Hotel Te Pania,Napier,4,123,New Zealand,45 Marine Parade
+Hotel Bayern,Temuco,3,85,Chile,Avenida Arturo Prat 146
+Hotel Don Eduardo,Temuco,3,92,Chile,Andres Bello 755
+La Frontera Hotel,Temuco,4,122,Chile,Bulnes 733 Temuco
+Valle Perdido Wine Resort,Neuquen,5,99999,Argentina,Ruta Provincial 7 - Picada 6
+Apart Hotel Maison,Mar Del Plata,3,104,Argentina,Belgrano 2143
+Hotel Benedetti,Mar Del Plata,3,99999,Argentina,Avenida Colon 2198
+Nuevo Hotel Roma,Mar Del Plata,1,17,Argentina,Castelli 2138
+Comfort Inn On Raglan,Warrnambool,4,146,Australia,349 Raglan Parade
+Hopkins House Motel and Apartments,Warrnambool,4,138,Australia,Corner of Mortlake Road (Hopkins Highway) and Whites Road
+Beacon Point Ocean View Villas,Apollo Bay,4,154,Australia,270 Skenes Creek Road
+BEST WESTERN Apollo Bay Motel and Apartments,Apollo Bay,3,153,Australia,2 Moore Street
+Lornebeach Apartments,Lorne,4.5,240,Australia,128 Mountjoy Parade
+The Sandridge,Lorne,3,118,Australia,128 Mountjoy Parade Lorne VIC 3232 Australia
+BEST WESTERN Admiralty Motor Inn,Geelong,3,119,Australia,66 Mckillop Street
+Eldorado Tourist Park,Batesford,3.5,99999,Australia,360 Ballarat Road
+Four Points by Sheraton Geelong,Geelong,4.5,164,Australia,10-14 Eastern Beach Road
+Gatehouse on Ryrie,Geelong,3,87,Australia,83 Yarra Street
+Spectacular Views,Melbourne,3,99999,Australia,44 St. Andrews Drive
+Torquay Holiday Park,Torquay (Australia),4,65,Australia,55 Surfcoast Highway
+Truemans Cottage Melbourne,Melbourne,4.5,99999,Australia,59 Truemans Road Rosebud
+Big4 Frankston Holiday Park,Melbourne,4,99999,Australia,2 Robinson Road (Cnr Frankston-Flinders & Robinsons Rds) Frankston
+Cowes Caravan Park Phillip Island,Phillip Island,4,82,Australia,164 Church Street Cowes
+Koala Park Resort,Phillip Island,2.5,99999,Australia,1825 Phillip Island Road
+Caves Motor Inn,Waitomo Caves,3,93,New Zealand,728 State Highway 3
+Panorama Motor Inn,Te Kuiti,4,93,New Zealand,59 Awakino Road
+Settlers Motel,Turangi,3,77,New Zealand,24 Arahori Street
+Waitomo Lodge Te Kuiti,Te Kuiti,4,105,New Zealand,State Hwy 3
+Accent on Taupo Motor Lodge,Taupo,4,89,New Zealand,310 Lake Terrace
+Bay Court Motel,Taupo,3,99999,New Zealand,104 Lake Terrace
+Birchwood Spa Motel,Rotorua,4,90,New Zealand,6 Sala Street
+Holiday Inn Rotorua,Rotorua,4,95,New Zealand,10 Tryon Street
+Pounamu Lodge,Rotorua,3.5,99999,New Zealand,51 Spencer Road RD 5 Lake Tarawera
+Quest Rotorua,Rotorua,4,93,New Zealand,7 Tryon Street Whakarewarewa
+Santa Maria Motel,Rotorua,3,72,New Zealand,270 Te Ngae Road
+Taupo DeBretts Spa Resort,Taupo,5,86,New Zealand,Napier Taupo Highway SH5
+Twin Peaks Lakeside Inn,Taupo,3.5,102,New Zealand,76-80 Lake Terrace
+Walkers Homestay B&B,Rotorua,1,99999,New Zealand,13 Glenfield Road
+Yeoman Homestay Hotel Taupo,Taupo,1,99999,New Zealand,61 Puriri Street
+Beachcomber Motel Gisborne,Gisborne,3,93,New Zealand,73 Salisbury Road
+Gran Hotel Panamericano Mar del Plata,Mar Del Plata,3,73,Argentina,Hipolito Yrigoyen 1683
+Terrazas Del Bosque,Mar de las Pampas,4,99999,Argentina,Los Andes Y Limay
+San Remo Palace Hotel,Villa Gesell,3,76,Argentina,La Alameda 203 Numero 22
+San Remo Villa Corral Aparts,Carilo,4,104,Argentina,Avellano y Becasina
+Comfort Inn Sovereign Hill,Ballarat,3.5,146,Australia,Magpie Street
+65 Main,Hepburn Springs,4,202,Australia,65 Main Rd
+BEST WESTERN Airport Motel & Convention Centre,Melbourne,4,115,Australia,33 Ardlie Street
+Best Western Alexander Motor Inn & Apartments,Melbourne,3,92,Australia,980 Mt Alexander Road
+Central Springs Inn,Daylesford,4,117,Australia,6 Camp Street
+City West Serviced Apartments Melbourne,Melbourne,4,99999,Australia,160 Cecil Street
+Hiigh Apartments,Melbourne,4,161,Australia,153B High Street Prahran
+Kestrel Motor Inn Kilmore,Kilmore,3,99999,Australia,99 Powlett Street
+Knightsbridge Apartments,Melbourne,3,98,Australia,101 George Street
+Lake House,Daylesford,4,99999,Australia,4 King Street
+Middle Park Hotel Melbourne,Melbourne,4,117,Australia,102 Canterbury Road
+Pint On Punt Hostel Melbourne,Melbourne,3,99999,Australia,42 Punt Road Windsor
+Quality Hotel Melbourne Airport,Melbourne,3,153,Australia,265 Mickleham Road Tullamarine
+Quest Clocktower on Lygon Apartments Melbourne,Melbourne,4,182,Australia,255 Drummond Street Carlton Melbourne VIC 3053
+Redan Apartments,Melbourne,3,95,Australia,25 Redan Street St Kilda
+Rendezvous Hotel Melbourne,Melbourne,4,129,Australia,328 Flinders Street
+Royce Hotel,Melbourne,5,147,Australia,379 St Kilda Road
+Sunshine Motor Inn,Melbourne,3,110,Australia,608 Ballarat Road (Western Hwy)
+The Nunnery,Melbourne,1,99999,Australia,116 Nicholson Street
+Comfort Inn Coach & Bushmans,Seymour,3.5,139,Australia,66 Emily Street
+Como Cottage Accommodation,Melbourne,3,190,Australia,1465 Mt Dandnong Tourist Road
+Dandenong Motel Melbourne,Melbourne,3,99999,Australia,147 Princes Highway Dandenong
+Glen Harrow,Melbourne,4.5,99999,Australia,Old Monbulk Road Belgrave
+Glen Inn,Melbourne,3,106,Australia,605 Ferntree Gully Road
+Healesville Apartments,Melbourne,4,147,Australia,18 Symon Street
+PuntHill Knox,Melbourne,4,139,Australia,337 Stud Road Knox
+Quest On Doncaster Apartments Melbourne,Melbourne,3.5,139,Australia,855 Doncaster Road Doncaster
+Toorak Manor - a Quality Inn,Melbourne,4,107,Australia,220 Williams Road Toorak
+Yarra Glenn Bed and Breakfast,Melbourne,2,114,Australia,112 Yarra Glen Road
+Ski Club Of Victoria Lodges Mount Buller,Mount Buller,3.5,99999,Australia,195 New Summit Road
+Bellevue on the Lakes,Lakes Entrance,4,166,Australia,201 Esplanade
+BEST WESTERN Coachmans Rest Motor Inn,Eden,3,113,Australia,81 Princes Highway
+Castaways,Waiuku,5,175,New Zealand,685 Karioitahi Beach Road
+Four Elements Raglan,Raglan,5,99999,New Zealand,90 Upper Wainui Road RD3
+Anglesea Motel & Conference Centre,Hamilton,4,92,New Zealand,36 Liverpool Street
+Grand Mercure Puka Park Resort,Pauanui,4,195,New Zealand,Mount Avenue
+Novotel Hamilton Tainui,Hamilton,4,92,New Zealand,7 Alma Street
+Park View Motor Lodge Hamilton,Hamilton,5,105,New Zealand,450 Tristram Street
+The Commercial Hotel Accommodation,Hamilton,3,67,New Zealand,287 Victoria Street | Corner Victoria St. and Collingwood St.
+Academy Motor Inn,Tauranga,4.5,99999,New Zealand,734 Cameron Road
+The Sebel Trinity Wharf Tauranga,Tauranga,4,133,New Zealand,51 Dive Crescent
+Alborada Hotel,Concepcion,4,101,Chile,Barros Arana 457
+Gran Hotel Fontainebleau,San Clemente del Tuyu,4,75,Argentina,Calle 3 Nro 2290 Esquina Avda Costanera
+Comfort Inn William Macintosh,Naracoorte,3.5,118,Australia,Adelaide Road
+Barclay On View Motor Inn,Bendigo,4,133,Australia,181 View St Victoria 3550
+BEST WESTERN Crystal Inn,Bendigo,4,106,Australia,233-235 McIvor Highway
+Langley Hall Bed & Breakfast Bendigo,Bendigo,4.5,99999,Australia,484 Napier Street Victoria 3550
+McIvor Motor Inn & Lotus Convention Centre,Bendigo,3,111,Australia,45 McIvor Road Bendigo VIC 3550
+Perricoota Vines Retreat,Moama,4.5,138,Australia,400 Pericoota Road
+Quest Echuca,Echuca,4,127,Australia,25-29 Heygarth Street
+Welcome Stranger Motel,Bendigo,3.5,99999,Australia,56 MacKenzie Street West VIC 3555
+Arcadia Motor Inn,Corowa,3,118,Australia,127 Federation Avenue
+Australia Park Motel,Albury,3,113,Australia,Wodonga Place
+Best Western Heritage Motor Inn Corowa,Corowa,4,132,Australia,25 Edward Street
+BEST WESTERN Stagecoach Motel,Wodonga,3,123,Australia,188 Melbourne Road
+Big 4 Bright,Bright,4,99999,Australia,1-11 Mountbatten Avenue
+Golden Heritage Motor Inn & Cottages,Beechworth,4,128,Australia,Bonaira Street
+Westwood Lodge Bright,Bright,4,139,Australia,8 Wood Street
+Snowy Valley Resort,Jindabyne,3,407,Australia,Kosciusko Road
+Pelican Motor Inn,Merimbula,3,102,Australia,18 Merimbula Drive
+Green Gables Bed and Breakfast,Tilba Tilba,4,99999,Australia,269 Corkhill Drive
+All Seasons Auckland,Auckland,3,50,New Zealand,20 Wyndham Street
+Auckland Airport Kiwi Motel,Manukau City,3,46,New Zealand,144 McKenzie Road Mangere
+Bavaria Bed & Breakfast Hotel,Auckland,3,86,New Zealand,83 Valley Road
+BEST WESTERN BKs Pioneer Motor Lodge,Manukau City,4,84,New Zealand,205 Kirkbride Road
+Bianco off Queen,Auckland,4,70,New Zealand,2 White Street
+Formosa Golf Resort Manukau City,Manukau City,4,99999,New Zealand,110 Jack Lachlan Drive Beachlands
+Hobson Motor Inn & Wings,Waitakere,3.5,89,New Zealand,327 Hobsonville Road
+Kingsgate Hotel Parnell,Auckland,3,62,New Zealand,92-102 Gladstone Road
+Manukau Motor Lodge,Manukau City,4,123,New Zealand,631 Great South Road
+Millars Epsom Homestay,Auckland,3,99999,New Zealand,10 Ngaroma Road
+Off Broadway,Auckland,4,118,New Zealand,11 Alpers Avenue Newmarket
+Rendezvous Hotel Auckland,Auckland,4,86,New Zealand,Corner Mayoral Drive and Vincent Street
+Auckland,Auckland,3,118,New Zealand,50 Crescent Road East Palm Beach
+Beachfront Resort,Whitianga,4,142,New Zealand,113 Buffalo Beach Road
+Enclosure Bay,Auckland,4,264,New Zealand,9 Great Barrier Road
+Kutralwe,Los Molles,2,99999,Argentina,Ruta 222
+Dolphin Lodge Albany,Albany,3,100,Australia,32 Adelaide Cresent Middleton Beach Albany
+Grand Mercure The Links Vacation Club Apartments Normanville,Normanville,4,99999,Australia,1 St Andrews Boulevard
+Mclaren Vale Studio Apartments,Adelaide,4,207,Australia,222 Main St. PO Box 852 McLaren Vale
+Rivergum Holiday Retreat Corowa,Corowa,4,99999,Australia,386 Honour Avenue
+Jolly Swagman Motor Inn,Holbrook (Australia),3.5,128,Australia,46 Albury Street
+Quest Wagga Wagga,Wagga Wagga,4.5,152,Australia,69 Gurwood Street
+Airport International Motel,Queanbeyan,4,122,Australia,57-73 Yass Road
+BEST WESTERN Motel Monaro,Canberra,3,160,Australia,27 Dawes Street Kingston
+Canberra City Gateway Motel,Canberra,3,99999,Australia,Cnr Northbourne and Mouat
+Canberra Waldorf Apartments Hotel,Canberra,4,148,Australia,2 Akuna Street
+City Walk Hotel,Canberra,3,99999,Australia,2 Mort St.(G.P.O.Box3037)
+Medina Executive James Court,Canberra,4,136,Australia,74 Northbourne Avenue
+Beach Drive Motel,Batemans Bay,3,80,Australia,24 Beach Road
+Corrigans Cove,Batehaven,4,154,Australia,204 Beach Road
+Mollymook Motel Ulladulla,Ulladulla,2,99999,Australia,Corner of Princes Highway and Golf Avenue
+114 on Waipapa,Kerikeri,1,99999,New Zealand,114 Waipapa Road RD2
+Abbey House Boutique Bread & Breakfast,Kerikeri,3,119,New Zealand,24 Urutawa Drive
+Abilene Motel,Kerikeri,3,93,New Zealand,136 Kerikeri Rd
+Brisa Cottages B&B Okiato,Okiato,3,99999,New Zealand,92B Te Wahapu Road
+Haruru Falls Motor Inn Paihia,Paihia,3,99999,New Zealand,Puketona Road Northland 0154
+Kingsgate Hotel Autolodge Paihia,Paihia,3,91,New Zealand,104 Marsden Road
+Ounuwhao Harding House,Russell (New Zealand),5,99999,New Zealand,Matauwhi Rd
+Pichilemu Surf Hostal,Pichilemu,2,99,Chile,Calle Eugenio Diaz Lira 167
+Hotel Francia,San Rafael (Argentina),1,59,Argentina,Francia 248
+Tierra Mora Apart Hotel,San Rafael (Argentina),3,94,Argentina,AMEGHINO 350
+Virginia Departamentos,San Rafael (Argentina),3,83,Argentina,Leopoldo Lugones 193
+Dazzler Camberland Hotel Pilar,Fatima (Argentina),4,148,Argentina,Panamericana (Ruta 8) Km. 64.5 Fatima
+Posada De La Plaza,San Antonio de Areco,3,99999,Argentina,480 Alvear St.
+Abasto Hotel,Buenos Aires,5,103,Argentina,Avenida Corrientes 3190
+Al Sol Baires Apartment-Luis Saenz Pena & Rivadavia,Buenos Aires,1,76,Argentina,Luis Saenz Pe√±a 20 9¬∫J
+Argenta Tower Hotel and Suites,Buenos Aires,4,97,Argentina,Juncal 868
+B.A. Stop Buenos Aires Hostel,Buenos Aires,2,12,Argentina,Av. Rivadavia 1194
+Bayside Forum Apartments,Buenos Aires,4,98,Argentina,Olga Cossettini 162
+BoBo Hotel,Buenos Aires,4,204,Argentina,Guatemala 4882
+Buenos Aires Base,Buenos Aires,3,112,Argentina,Araoz 1997
+Casasur Art Hotel,Buenos Aires,5,160,Argentina,Avenida Callao 1823
+Colors Rent Apartment Buenos Aires,Buenos Aires,4,99999,Argentina,Uruguay 847 1 piso oficina 10
+Concord Recoleta Suites Buenos Aires,Buenos Aires,4,78,Argentina,Av Callao 1234
+Duque Hotel Boutique & Spa,Buenos Aires,4,90,Argentina,Guatemala 4364
+Gran Hotel Ailen Buenos Aires,Buenos Aires,3,91,Argentina,Suipacha 18
+Hostel Carlos Gardel,Buenos Aires,2,13,Argentina,Carlos Calvo 579
+Hotel 8 de Octubre,Buenos Aires,3,62,Argentina,Paraguay 1420
+Hotel Chile,Buenos Aires,2,77,Argentina,Av. De Mayo 1297
+Hotel Jacaranda Suites,San Fernando (Buenos Aires),4,99999,Argentina,Necochea 810 San Fernando
+Hotel La Perla Buenos Aires,Buenos Aires,3,63,Argentina,Avenida Jujuy 36
+Howard Johnson Congreso,Buenos Aires,3,77,Argentina,Bartolome Mitre 2241
+Howard Johnson Inn Palermo,Buenos Aires,4,119,Argentina,Niceto Vega 5832
+La Sonada,Tigre,2.5,131,Argentina,Anastasio El Pollo 1786
+Le Batiment Apartments Buenos Aires,Buenos Aires,4,78,Argentina,Paraguay 2862
+Leonardo Da Vinci Residence,Buenos Aires,2,41,Argentina,Libertad 1224
+Liberty Hotel Buenos Aires,Buenos Aires,3,83,Argentina,Avenida Corrientes 632
+Livin Residence Buenos Aires,Buenos Aires,4,80,Argentina,Viamonte 1815
+Loi Suites Arenales Hotel,Buenos Aires,4,101,Argentina,Arenales 855
+Luey Hotel,Buenos Aires,3,77,Argentina,Av Rivadavia 2902
+NH Lancaster,Buenos Aires,4,141,Argentina,Avenida Cordoba 405
+Noster Bayres Bed & Breakfast,Buenos Aires,3,99999,Argentina,Brasil 459
+Panamericano Buenos Aires Hotel,Buenos Aires,5,161,Argentina,Carlos Pellegrini 525
+Parada Abasto Apartamentos,Buenos Aires,1,80,Argentina,Aguero 568
+Scala Hotel Buenos Aires,Buenos Aires,4,109,Argentina,Bernardo De Irigoyen 740
+Sissi Haz Hotel Buenos Aires,Buenos Aires,3,99999,Argentina,Malabia 1561
+Super Resort Buenos Aires,Buenos Aires,2,64,Argentina,Tte General Per√≥n 940
+Tribeca Studios,Buenos Aires,3,63,Argentina,Bartolome Mitre 4284
+Villa Julia Buenos Aires,Buenos Aires,4,99999,Argentina,Av del libertador 16170
+Embajador,Montevideo,4,99999,Uruguay,San Jose 1212
+Ermitage Hotel Montevideo,Montevideo,4,63,Uruguay,Juan Benito Blanco 783
+Europa Hotel Montevideo,Montevideo,3,67,Uruguay,Colonia 1341
+Hotel Arapey,Montevideo,2,39,Uruguay,Avenida Uruguay 925
+Los Angeles Hotel Montevideo,Montevideo,2,48,Uruguay,Avenida 18 De Julio 974
+Sheraton Montevideo Hotel,Montevideo,5,194,Uruguay,Calle Victor Solino 349
+Posada De Mis Padres,La Floresta (Uruguay),2,91,Uruguay,33 y Mackionnon
+San Remo Terrazas Hotel,Piriapolis,3,99999,Uruguay,Pasaje Superior De La Av Francisco Piri√°
+Alhambra Hotel Punta del Este,Punta del Este,3,72,Uruguay,Calle 28 entre Avenida Gorlero y calle 24
+Days Inn Brava,Punta del Este,3,112,Uruguay,Los Meros 590
+Hotel Concorde - La Salina,Punta del Este,3,85,Uruguay,La Salina Y Gorlero N¬∞ 717
+Hotel Terrazas De Costa Azul,La Paloma,3,124,Uruguay,Balneario Costa Azul
+Beach Haven,Cape Town,4,582,South Africa,59 Fourth Beach Clifton
+Bluebottle Guesthouse Cape Town,Cape Town,3,52,South Africa,18 Mount Road Muizenberg
+Brightwater Lodge,Cape Town,3,59,South Africa,9 Brighton Street Hout Bay
+Riverside Estates,Cape Town,4,65,South Africa,Valley Rd Hout Bay
+Smart Stay Luxury Self-catering Apartments,Somerset West,4,71,South Africa,17-18 Pintail Way
+Villa Hout Bay Heights,Cape Town,4,64,South Africa,35 Penzance Avenue
+78 on 5th Bed and Breakfast Hermanus,Hermanus,2,60,South Africa,78 5th Street Voelklip
+The Wild Fig,Kleinmond,2,48,South Africa,5 De Vos Street
+Adler¬¥s Nest,Mossel Bay,3,78,South Africa,5 Klipheuwel Street Aalwyndal
+At Whale-Phin Guest House,Mossel Bay,1,45,South Africa,8 Grysbok Avenue
+P.H. Mossel Bay Hotel,Mossel Bay,3,107,South Africa,Corner of Church and Market Streets PO Box 349
+The Point Hotel,Mossel Bay,4,93,South Africa,Point Road
+Isola Bella Guest House,Knysna,4,84,South Africa,21 Hart Road
+Knysna Log-Inn Hotel,Knysna,4,68,South Africa,16 Grey Street PO Box 46
+Knysna Manor Guest House,Knysna,3,46,South Africa,19 Fichat Street
+Knysna Stays,Knysna,4,58,South Africa,25 Old Toll Road Upper Old Place
+Protea Wilds Retreat Knysna,Knysna,3,50,South Africa,PO Box 1386
+Guesthouse Stratos,Jeffreys Bay,3,42,South Africa,11 Uys Street
+Sandriver Lodge,Saint Francis Bay,2,72,South Africa,144 St Francis Drive
+Big Brook Cottages,Channybearup,4,99999,Australia,489 Stirling Road
+Pemberton Farm Chalets,Pemberton,3,139,Australia,PO Box 41 Pemberton WA 6260 Australia
+Barossa Weintal Hotel / Motel,Tanunda,4,137,Australia,235 Murray Street
+Baybeachfront Apartments,Adelaide,4,126,Australia,742 Anzac Highway
+Bower Street Apartment,Adelaide,4,99999,Australia,20 Bower Street
+Morphettville Motor Inn,Adelaide,3.5,99999,Australia,444 Anzac Highway South Australia 5038
+Norfolk Motor Inn Adelaide,Adelaide,2,82,Australia,71 Broadway Glenelg South
+Novotel Barossa Valley Resort,Rowland Flat,4,141,Australia,Golf Links Road
+OConnell Inn,Adelaide,4,138,Australia,199 OConnell Street
+Stanley Cottage Adelaide,Adelaide,3,99999,Australia,82 Stanley Street
+The Louise,Tanunda,4.5,458,Australia,PO Box 219
+The Reserve Barossa Valley,Marananga,3,1017,Australia,Lot 62 Seppeltsfield Road
+Acorn Cottage,Angaston,4,214,Australia,7 French Street
+Portee Station Suites Blanche Town,BlancheTown,4,99999,Australia,Stuart Highway
+Lake Cullulleraine RSL Holiday Park Accommodation Mildura,Mildura,2.5,99999,Australia,Riverside Dr Cullulleraine
+Murray Haven on Thirteenth Guest House Mildura,Mildura,4,174,Australia,118a Thirtheenth Street
+Pied-a-terre Guest House Mildura,Mildura,4,174,Australia,97 Chaffey Avenue
+Best Western Wollongong,Wollongong,4,138,Australia,6-10 Gladstone Avenue
+Kangaroo Valley Timber Cabin,Kangaroo Valley,4,99999,Australia,390 Mt Scanzi Rd
+Peppers Craigieburn,Bowral,4,154,Australia,Centennial Road
+Treetops Country Guesthouse,Bundanoon,3,99999,Australia,101 Railway Avenue
+La Mirage Parador,Algarrobo,3,91,Chile,Camino a Tunqu√©n s/n Correo de Algar Tunquen
+OHiggins Plaza Hotel,Valparaiso,3,99999,Chile,Pastor Willis Hoover 517 (Ex Retamo) Valparaiso
+Rincon De Valparaiso,Valparaiso,1,30,Chile,Atahualpa 333
+Robinson Crusoe Inn Heritage Valparaiso,Valparaiso,3,99999,Chile,Hector Calvo cerro Bellavista 389
+Ah Hotel,Santiago,3,70,Chile,Ismael Valdes Vergara 740
+Amoblados Bosque Norte,Santiago,3,99999,Chile,Don Carlos 2898 - Depto N¬∫ 39
+Apart Hotel Capelli Express,Santiago,3,89,Chile,San Sebastian 2909
+Apart Hotel Monteverde,Santiago,3,58,Chile,P√≠o Nono 193
+ApartHotel CityCenter Moneda Santiago,Santiago,3,65,Chile,Moneda 1541
+Casa Real,Santiago,4,99999,Chile,Camino Padre Hurtado - Santiago
+Departamentos Amoblados Costa Merced Santiago,Santiago,3,64,Chile,Merced 562 - Torre B Departamento 705
+Diego de Velazquez Hotel,Santiago,4,93,Chile,Guardia Vieja 150 Providencia
+Great City Apartment,Santiago,3,48,Chile,Catedral 1402
+Holiday Inn Santiago Airport,Santiago,5,169,Chile,Armando Cortinez Norte 2150 Pudahuel
+Hotel Diego de Almagro Centro,Santiago,4,89,Chile,Av. Libertado B. Ohiggins 1485
+Hotel Loreto Santiago,Santiago,3,29,Chile,Loreto 170 Comuna de Recoleta
+Hotel Santiago Park Plaza,Santiago,5,120,Chile,Avenida Ricardo Lyon 207 Providencia
+Mercure Santiago Ciudad Empresarial,Santiago,4,106,Chile,Av Santa Clara 354 Huechuraba Region Metropolitana
+Nilontraro Hostal,Santiago,2,96,Chile,General Flores 238
+Opera Apartments 3,Santiago,1,48,Chile,Bulnes 79 - Departamento 33
+RQ Providencia Suites,Santiago,4,80,Chile,Diego de Velazquez 2087 Local 2 Providencia
+Santiago Furnished Apartments,Santiago,3,76,Chile,Monjitas 744
+Soho Santiago Apart,Santiago,3,67,Chile,Calle Miraflores 455
+Urbana Street Departamentos,Santiago,3,77,Chile,Cl. Alfredo Barros Errazuriz 1925 Providencia
+Hotel Argentino De San Nicolas,San Nicolas de los Arroyos,3,99999,Argentina,Garibaldi 136
+1 On Queens Boutique Guest House,Cape Town,4,88,South Africa,1 Queens Road Tamboerskloof
+201 Ballinrobe Cape Town,Cape Town,4,234,South Africa,216-219 High Level Road Sea Point
+3 Palms Luxury Cottage,Cape Town,4,64,South Africa,25 Disa Road Bloubergrant
+Atlanticview Cape Town Boutique Hotel,Cape Town,5,99999,South Africa,31 Francolin Rd Camps Bay
+Barry Hall Luxury Apartments,Cape Town,4,44,South Africa,6 Irwinton Road Fresnaye
+Camelthorn Lodge,Cape Town,3,99999,South Africa,4 Chas Booth Avenue Camps Bay
+Camps Bay Resort,Cape Town,3,73,South Africa,32 Camps Bay Drive Camps Bay
+Cape Alexander,Cape Town,4,110,South Africa,201 Alexander Hill Milner Road Tamboerskloof
+Cape Heritage Hotel,Cape Town,4,97,South Africa,90 Bree Street
+Fahrenheit B&B Cape Town,Cape Town,4,78,South Africa,72b Kloofnek Road Tamboerskloof
+Flower Street Villa Guest House Cape Town,Cape Town,4,134,South Africa,3 Flower Street Oranjezicht
+Glaston House 206 Apartment Cape Town,Cape Town,3,67,South Africa,63 Church Street City Centre
+Glen Boutique Hotel,Cape Town,4,58,South Africa,3 The Glen Sea Point
+Highlands Lodge,Cape Town,3,66,South Africa,29 High Street Durbanville
+Hotel Graeme,Cape Town,3,99999,South Africa,107 Main Road Green Point
+Jardin dEbene Boutique Guesthouse,Cape Town,4,98,South Africa,21 Warren Street Tamboerskloof
+Joie de Vivre Country House Paarl,Paarl,3,99999,South Africa,Omuramba Farm Anyswortelrug Road
+Maartens Guesthouse,Cape Town,3,63,South Africa,39 Avenue Normandy Fresnaye
+Mandalay Beach Guest House,Cape Town,4,64,South Africa,4 Fathom Rd Bloubergstrandt
+Marianne Wine Estate Apartments Stellenbosch,Stellenbosch,4,62,South Africa,Valley Road off R44
+My Cascades,Langebaan,4,102,South Africa,Kaliva 457 Club Mykonos
+Oak Village Bed & Breakfast Stellenbosch,Stellenbosch,3,79,South Africa,7 Hamman Street
+Plattekloof Lodge,Cape Town,3,53,South Africa,5 Buchu Close
+Port View Guest House Cape Town,Cape Town,3,72,South Africa,13 Upper Portswood Road Green Point
+Primi Oxford House Apartments Cape Town,Cape Town,3,57,South Africa,4 Wessels Road Green Point
+Protea Hotel Colosseum,Cape Town,4,93,South Africa,Corner Century Way & Century Boulevard PO Box 159
+Protea Hotel Stellenbosch,Stellenbosch,3,70,South Africa,Techno Avenue
+River Manor Boutique Hotel and Spa Stellenbosch,Stellenbosch,3,119,South Africa,6-8 The Avenue
+Rivierbos Guest House Stellenbosch,Stellenbosch,3,49,South Africa,1 Hamman Street
+Rusthuiz Guest House,Stellenbosch,4,110,South Africa,13 Piet Retief Street
+Soverby Guesthouse,Stellenbosch,4,93,South Africa,Annandale Road Lynedoch
+Star Holiday Apartments Cape Town,Cape Town,4,75,South Africa,58 Upper Cambridge Street Walmer Estate
+Sugar Hotel Cape Town,Cape Town,5,148,South Africa,1 Main Road Green Point
+Sun Bell Lodge,Cape Town,3,68,South Africa,8 Leipoldt Road
+The Commodore,Cape Town,4,109,South Africa,Portswood Road Portswood Square V&A Waterfront
+The Villa Rosa,Cape Town,3,57,South Africa,277 High Level Road
+The Wild Mushroom Boutique Hotel,Stellenbosch,5,114,South Africa,39 Digteby Estate Vlottenburg Road
+VIP Living Luxury Hotel Apartments,Cape Town,4,99999,South Africa,Icon Building Cnr Lower Long Street & Hans Strijdom Foreshore
+7 Church Street,Montagu,4,83,South Africa,7 Church Street
+Fairy Knowe Hotel,Wilderness,3,99999,South Africa,Dumbleton Road
+Fancourt,George,5,267,South Africa,Montagu Street Blanco
+Loeries View Holiday House Wilderness,Wilderness,4,81,South Africa,Young Terrace Road/Constantia Lane
+Wilderness Beach Hotel,Wilderness,3,62,South Africa,National Garden Route Highway N2 PO Box 26
+Addo Afrique Estate,Addo,5,217,South Africa,Farm Addo Afrique
+Addo Elephant Country Estate Accommodation,Addo,3,99999,South Africa,Main Street
+Al-Beit Lodge Port Elizabeth,Port Elizabeth,4,79,South Africa,49 Admiralty Way
+Calico Guest House,Port Elizabeth,3,57,South Africa,2 Keiskama Street Summerstrand
+Victorian Villa Guest Manor,Port Elizabeth,4,57,South Africa,22-26 Cape Road Mill Park
+Idwala Lodge Grahamstown,Grahamstown,4,876,South Africa,Idwala Lodge Sidbury
+Margarets Beach Resort,Gnarabup,4,296,Australia,1 Resort Drive
+Arrunga Bed & Breakfast Yallingup,Yallingup,2,99999,Australia,47 Sonning Loop
+Australis Margaret River,Margaret River,3,157,Australia,Lot 2 Wallcliffe Road
+Cape Lodge,Yallingup,5,456,Australia,3341 Caves Road
+Caves House Hotel,Yallingup,4,99999,Australia,Yallingup Beach Road
+Forte Capeview Beach Apartments Busselton,Busselton,4,169,Australia,Little Colin Street
+Margaret House,Margaret River,3,99999,Australia,6 Devon Drive
+Margaret River Apartment,Margaret River,3,99999,Australia,109 Bussell Highway MARGARET RIVER
+Ocean Drive Motel,Bunbury,3,102,Australia,121 Ocean Drive
+Coodlie Park Farm Retreat,Port Kenny,3,99999,Australia,Flinders Highway
+Parkview Motor Inn,Parkes,3.5,81,Australia,34 Forbes Road
+Chesleigh Homestead Bathurst,Bathurst,3,99999,Australia,Hill End Road Sofala
+Turners Vineyard,Orange (Australia),4.5,99999,Australia,Mitchell Highway
+Hawkesbury Race Club Motel,Richmond (New South Wales),4,185,Australia,Racecourse Road Clarendon
+Avoca Palms Resort Apartments,Avoca Beach,4,396,Australia,194 Avoca Dr
+Bakers Treat Bed & Breakfast Belmont (Australia),Belmont (Australia),4,99999,Australia,313 Pacific Highway Belmont North
+Blue Pacific Swansea Hotel Blacksmiths,Blacksmiths,3,103,Australia,82 Pacific Highway Little Pelican
+Capitol Square Hotel,Sydney,3,95,Australia,Corner George and Campbell Streets
+Drummoyne Serviced Apartments,Sydney,3,110,Australia,165-167 Lyons Road Drummoyne
+Econo Lodge Sydney South,Sydney,3,56,Australia,40-44 Wentworth Avenue
+Four Seasons Hotel Sydney,Sydney,5,229,Australia,199 George Street
+Galaxy Motel,West Gosford,4,164,Australia,26 Central Coast Highway West
+Hotel Ibis Darling Harbour,Sydney,3,114,Australia,70 Murray Street Darling Harbour
+Lake Macquarie Resort Accommodation Cams Wharf,Cams Wharf,3.5,1027,Australia,Wild Duck Drive
+Lamrock Lodge,Sydney,2,21,Australia,19 Lamrock Avenue Bondi Beach
+Medina Classic Crows Nest Hotel Sydney,Sydney,3.5,99999,Australia,167 Willoughby Road Crows Nest
+Meriton Serviced Apartments Bondi Junction,Sydney,5,175,Australia,95 Grafton Street Bondi Junction
+Ocean Front Motel The Entrance,The Entrance,4,123,Australia,102 Ocean Parade
+Posh Hotel,Sydney,3,107,Australia,8 Broadway Chippendale
+Q Station,Sydney,4,109,Australia,1 North Head Scenic Drive
+Quay West Resort Magenta Shores,Magenta (New South Wales),5,254,Australia,1 Magenta Drive
+Simpsons of Potts Point Hotel,Sydney,4,294,Australia,8 Challis Avenue Potts Point
+Stamford Grand North Ryde,Sydney,4,126,Australia,Corner Epping and Herring Roads North Ryde
+Toowoon Bay Holiday Park,Toowoon Bay,3.5,99999,Australia,1 Koongara Street
+Travellers Rest Backpackers Accomodation Sydney,Sydney,2,99999,Australia,156 Victoria Street Kings Cross
+Hotel Regata Pichidangui,Pichidangui,3,99999,Chile,Costanera 301
+Neruda Mar Suite Hotel,Vina del Mar,4,112,Chile,Av. Borgo√±o 16180
+Posada Salentein Hotel Mendoza,Mendoza,4,412,Argentina,Ruta 89 S/N.Tunuyan
+Ritz Hotel Mendoza,Mendoza,3,75,Argentina,Peru 1008
+Xumec Apart Hotel,Mendoza,3,99999,Argentina,Mitre 1490
+Barranca del Indio,Villa de Merlo,2.5,99999,Argentina,Ramon Liendo 1325
+Estacion Callao Hotel,Rosario,3,99999,Argentina,Callao 117 Bis
+Seaside Cottages Paternoster,Paternoster,4,89,South Africa,Paternoster Western Cape
+36 on Bonza,East London,4,100,South Africa,36 Bonza Bay Road Beacon Bay
+Oakhampton Bed & Breakfast East London,East London,4,99999,South Africa,8 Oakhampton Road Berea
+Comfort Suites Beachside Apts,Perth,3,99999,Australia,57 Rockingham Beach Road
+Coranda Lodge B & B,Perth,3,154,Australia,73 Twelfth Road Haynes
+Lazy River Boutique Bed and Breakfast,Pinjarra,4,358,Australia,9 Wilson Rd WA 6208
+Quest Harbour Village Apartments Perth,Perth,3.5,99999,Australia,43 Mews Road Fremantle
+Rottnest Island Authority Hostel,Rottnest Island,2,49,Australia,Kingstown Road
+Econo Lodge Fountain View,Dubbo,3,107,Australia,113-115 Cobra Street
+BEST WESTERN Wanderlight Motor Inn,Mudgee,3.5,129,Australia,107 Market Street
+Wildwood Guesthouse,Putta Bucca,4,99999,Australia,Henry Lawson Drive
+Lansallos B&B,Lithgow,3,99999,Australia,11 Brymair Road Bogee
+BEST WESTERN Travellers Motor Village,Newcastle,3.5,108,Australia,295 Maitland Road
+Gemelli Estate,Rothbury (Australia),4,99999,Australia,168 Palmers Lane
+Grand Mercure The Vintage Hunter Valley,Rothbury (Australia),4.5,244,Australia,Vintage Drive Hunter Valley
+Harbourside Apartments Newcastle,Newcastle,3,154,Australia,Linwood Street & The Lane Maryville
+Newcastle Heights Motel,Newcastle,3,97,Australia,270 Pacific Highway
+Willow Tree Estate Accommodation Pokolbin,Pokolbin,4,99999,Australia,96 Mistletoe Lane
+Halifax Holiday Park Accommodation Port Stephens,Port Stephens,4,117,Australia,5 Beach Road Nelson Bay
+Wanderers Retreat Port Stephens,Port Stephens,3.5,138,Australia,7 Koala Place (formerly 32 Eucalyptus Drive) One Mile Beach
+Gran Savoy Hotel,Cordoba (Argentina),3,99999,Argentina,Jer√≥nimo Luis De Cabrera 201
+Hotel Alpre,Villa Carlos Paz,4,99999,Argentina,Av. San Martin 1035
+Oma Paula Hotel,Villa Carlos Paz,2,99999,Argentina,El Prado 412 (Ex 22)
+Maran Suites & Towers,Parana,4,99999,Argentina,Rivadavia Y Mitre
+Bungalows El Puente,Salto,2,99999,Uruguay,Calle 6 y Circunvalaci√≥n
+Comfort Inn Wentworth Plaza,Perth,3.5,126,Australia,300 Murray Street
+Rottnest Island Authority Thompson Bay South Villas,Rottnest Island,3,138,Australia,Vlamingh Way
+Rydges Perth,Perth,4,152,Australia,Cnr Hay And King Streets
+Sunset Waters Hotel Scarborough,Perth,3.5,133,Australia,38 Filburn Street Scarborough WA 6019 Australia
+Chapel Farm Getaways Accommodation Perth,Perth,3,99999,Australia,231 Toodyay Road Middle Swan
+Flinders Ranges Caravan Park Cabins Hawker,Hawker,4,99999,Australia,Carpenter Road SA 5434
+Orana Windmill Motel,Gilgandra,3.5,101,Australia,36 Warren Road (Oxley Highway)
+Azura Beach House B&B,Port Macquarie,4.5,122,Australia,109 Pacific Drive
+Kundabung Motor Inn,Kundabung,3,99999,Australia,9 Smiths Creek Road
+Sundowner Breakwall Tourist Park,Port Macquarie,3.5,99999,Australia,1 Munster Street
+The Observatory,Port Macquarie,4.5,122,Australia,40 William Street
+Vacation Village,Port Macquarie,3.5,99999,Australia,50 Settlement Point Road
+Hosteria Valle Fertil,San Agustin de Valle Fertil,1.5,99999,Argentina,Rivadavia S/N Valle Fertil
+Kuntur Hotel,Capilla del Monte,3,99999,Argentina,Falucho 121
+La Guarida Hotel,Capilla del Monte,3,99999,Argentina,Los Terrones 1008
+Ornatus Palace Hotel,Porto Alegre,3,57,Brazil,Rua General Vitorino 146
+Plaza Sao Rafael Hotel,Porto Alegre,5,158,Brazil,Av. Alberto Bins 514
+Porto Alegre City Hotel,Porto Alegre,3,131,Brazil,Rua Dr. Jose Montaury 20
+305 on Ipahla Bed & Breakfast Amanzimtoti,Amanzimtoti,4,99999,South Africa,305 Ipahla Road Athlone Park
+Blue Marlin,Scottburgh,3,99999,South Africa,180 Scott Street
+Comfort Inn Midas,Kalgoorlie-Boulder,3.5,162,Australia,409 Hannan Street
+Kalgoorlie Overland Motel,Kalgoorlie-Boulder,3.5,99999,Australia,566 Hannan Street
+Acacia Motor Inn Armidale,Armidale,3.5,99999,Australia,192 Miller Street
+Jacaranda Country Lodge,Congarinni North,4,99999,Australia,292 Wilson Road
+Allambie Boutique Apartments Coffs Harbour,Coffs Harbour,3.5,99999,Australia,22 Camperdown Street
+Aquajet Motel,Coffs Harbour,3,91,Australia,49 Park Beach Road
+BEST WESTERN Parkside Motor Inn,Coffs Harbour,3.5,163,Australia,14-16 Elizabeth Street
+Chelsea Motor Inn,Coffs Harbour,3,90,Australia,106 Grafton Street
+Coastwatch Bed n Breakfast Coffs Harbour,Coffs Harbour,4,118,Australia,6A Coastwatch Close Korora
+Lilypond Apartments Coffs Harbour,Coffs Harbour,4,99999,Australia,95 James Small Drive Korora
+Novotel Coffs Harbour Pacific Bay Resort,Coffs Harbour,4,150,Australia,Cnr Pacific Hwy and Bay Drive
+Sandcastles Holiday Units,Coffs Harbour,3,108,Australia,63 Ocean Parade
+The Waterside Cabins Woolgoolga,Woolgoolga,4,99999,Australia,8 Hearnes Lake Road
+Tradewinds Apartments Coffs Harbour,Coffs Harbour,3,102,Australia,77 Ocean Parade
+Hotel Express Canoas,Canoas,3,65,Brazil,Avenida Getulio Vargas 5075
+Hotel Alpestre,Gramado,4,99999,Brazil,Rua Leopoldo Rosenfeldt 67 - Planalto
+Hotel Ritta Hoppner,Gramado,3,180,Brazil,Rua Pedro Candiago 364
+Mountain Village,Canela,5,182,Brazil,Rua das Flores 222
+Roseland House,Durban,4,76,South Africa,291 Davenport/Helen Joseph Road Glenwood
+Sicas Guest House,Durban,4,87,South Africa,19 Owen Avenue PO Box 30059 Mayville
+8 Wedgewood Terrace Apartment Umhlanga,Umhlanga,4,144,South Africa,27 Newlands Drive (Cnr Lagoon Drive)
+Forest Suites at Zimbali,Ballito,5,178,South Africa,Port Zimbali Dolphin Coast
+Mesami Hotel,Durban,4,66,South Africa,28 Currie Road
+Regal Inn Ballito,Ballito,1,99999,South Africa,1 Saayman Close
+Sandyridge Bed and Breakfast Umhlanga,Umhlanga,4,66,South Africa,85 Ridge Road
+Dongara Denison Beach Holiday Park,Dongara,4,99999,Australia,250 Ocean Drive
+Opal Inn,Coober Pedy,3,118,Australia,Hutchinson Street
+New England Motor Lodge,Glen Innes,3.5,133,Australia,160 Church Street
+Jacaranda Motor Lodge,Grafton,3.5,102,Australia,Pacific Highway
+Moby Dick Waterfront Resort Motel,Yamba,4,144,Australia,27-29 Yamba Road
+Cascade Garden Apartments Norfolk Island,Norfolk Island,3,101,Norfolk Island,New Cascade Road
+Cabanas Areias,Imbituba,1,43,Brazil,Av. Central Praia do Rosa s/n
+Pousada Morada dos Bougainvilles Imbituba,Imbituba,3,99999,Brazil,Caminho do Alto do Morro s/n¬∞
+Ravena Cassino Hotel,Laguna (Brazil),4,99999,Brazil,Av. Rio Grande do Sul 700 Praia do Mar Grosso
+Tradewinds Country Inn,Mtunzini,3,99999,South Africa,12 Hely Hutchinson Road
+Dumazulu Lodge Hluhluwe,Hluhluwe,3,88,South Africa,Lot H29 Bushlands Road
+Hillton Manor,Richards Bay,4,99999,South Africa,37 Shad Shoal Street
+Protea Hotel Hluhluwe & Safaris,Hluhluwe,3,49,South Africa,104 Main Road PO Box 92
+Aegean Apartments Gold Coast,Gold Coast,4,136,Australia,30 Laycock Street
+Azabu Guest House Byron Bay,Byron Bay,4,247,Australia,317 Skinners Shoot Road
+Ballina Beach Village,Empire Vale,3,99999,Australia,440 South Ballina Beach Road
+Baystay Bed & Breakfast,Byron Bay,3,119,Australia,30 Marvell Street
+BEST WESTERN Broadbeach Travel Inn Apartments,Gold Coast,3,104,Australia,2651 Gold Coast Highway
+BEST WESTERN Portobello Resort Apartments,Gold Coast,3,101,Australia,2607 Gold Coast Highway
+Blue Water on the Beach Villas Byron Bay,Byron Bay,4,99999,Australia,3 Don Street
+Bundaleer Retreat,Broken Head,4,151,Australia,1 Bundaleer Rd
+Byron Bay Beachfront Apartments,Byron Bay,4,223,Australia,39-41 Lawson St
+Carmel By The Sea,Gold Coast,4,178,Australia,177 Old Burleigh Road Broadbeach
+Cashelmara Beachfront Apartments Gold Coast,Gold Coast,4,180,Australia,170 The Esplanade Burleigh Heads
+Cossies Apartment Byron Bay,Byron Bay,4,113,Australia,45 Shirley Street
+Gaia Retreat & Spa,Brooklet,4,99999,Australia,933 Fernleigh Road
+Jubilee Views Holiday Apartments Gold Coast,Gold Coast,4,99999,Australia,16 Jubilee Avenue Broadbeach
+Julians Apartments Byron Bay,Byron Bay,4,130,Australia,124 Lighthouse Road
+Kirra Palms Apartments Gold Coast,Gold Coast,3,82,Australia,102-112 Musgrave Street Kirra
+Koala Cove Holiday Apartments,Gold Coast,3,71,Australia,16 Djerral ave
+Lyrebird Motel Mullumbimby,Mullumbimby,3,99999,Australia,68 Dalley Street
+Marrakesh Resort Apartments,Gold Coast,4.5,93,Australia,198 Surf Parade
+Mermaid Beach Park View Apartment Gold Coast,Gold Coast,3,94,Australia,40-44 Ventura Road Mermaid Beach
+Paradise Towers Apartments Gold Coast,Gold Coast,2,79,Australia,3049 Surfers Paradise Boulevard Surfers Paradise
+San Chelsea Beachfront Apartments Gold Coast,Gold Coast,3,117,Australia,146 Pacific Parade
+Sanctuary Lake Apartments Gold Coast,Gold Coast,4,81,Australia,1/40 Teemangum Street Currumbin
+Talisman Apartments,Gold Coast,4,139,Australia,67 Broadbeach Boulevard Broadbeach
+The Lower Decks,Byron Bay,3.5,99999,Australia,20a Palm Valley Dve Wategos Beach
+Alto Rio Hondo,Termas de Rio Hondo,2,86,Argentina,Gorostiaga 62
+Biz Hotel,Fraiburgo,3,99999,Brazil,Rua das Hortencias 265
+Belluno Apart Hotel,Florianopolis,3,54,Brazil,Rua Leonel Pereira 78
+Jurere Beach Village Hotel Florianopolis,Florianopolis,5,112,Brazil,Alameda Cesar Nascimento 646
+Mar de Canasvieiras Hotel e Eventos,Florianopolis,4,36,Brazil,Av Madre Villac 2017 Rua dos Eucaliptus
+Pousada Atlantique Florianopolis,Florianopolis,3,59,Brazil,Rua Mercurio 179
+Pousada do Beijaflor,Florianopolis,2.5,49,Brazil,Rua Hypolito Gregorio Pereira 567
+Pousada do Lima Florianopolis,Florianopolis,3,57,Brazil,Rua Osni Ortiga 3060
+Pousada Ilha do Papagaio Palhoca,Palhoca,5,99999,Brazil,Ilha do Papagaio - Praia do Sonho
+Pousada Mar Do Leste,Florianopolis,3,59,Brazil,Dorvalina Carolina Florindo 37
+Torres Da Cachoeira Hotel Florianopolis,Florianopolis,4,113,Brazil,Av. Luiz Boiteux Piazza 3991
+Canon Lodge Fish River Canyon,Fish River Canyon,3,225,Namibia,Gondwana Canon Park Kalahari Keetmashoop
+BEST WESTERN Applegum Inn,Toowoomba,3.5,98,Australia,41 Margaret Street
+Tudor Lodge Motel Toowoomba,Toowoomba,3.5,99999,Australia,2 Scott Street
+Branell Homestead Bed & Breakfast,Laidley,4,128,Australia,12 Paroz Road
+Taringa Gardens Apartments,Brisbane,2.5,99999,Australia,Cnr Moggill and Waverley Roads Taringa
+AAA Lancaster Court Motel,Brisbane,3,126,Australia,521 Ipswich Road Annerley
+Ashmore Palms Holiday Village,Gold Coast,3.5,103,Australia,71 Hinde Street Ashmore
+Avon Lodge Bed & Breakfast,Bribie Island,4,99999,Australia,132 Avon Avenue Banksia Beach
+Brisbane City YHA,Brisbane,4,32,Australia,392 Upper Roma Street
+Broadwater Keys Holiday Apartment Gold Coast,Gold Coast,3,66,Australia,125 Frank Street Labrador
+Central Brunswick Hotel,Brisbane,4,132,Australia,455 Brunswick Street Fortitude Valley
+Central Cosmo Apartments,Brisbane,4,138,Australia,60 Park Road Milton
+Champelli Palms Luxury Apartments Gold Coast,Gold Coast,3,80,Australia,12 Whiting Street Labrador Gold Coast
+Chateau Beachside Resort Gold Coast,Gold Coast,3.5,88,Australia,Corner Esplanade & Elkhorne Avenue Surfers Paradise
+Crystal Bay On The Broadwater Apartments Gold Coast,Gold Coast,4,101,Australia,182 Marine Parade Southport
+Cypress Avenue Apartments,Gold Coast,3.5,99999,Australia,33 Cypress Avenue Surfers Paradise
+Domain Serviced Apartments Brisbane,Brisbane,4,1983,Australia,110 Racecourse Road Ascot
+FV4006 Apartments,Brisbane,4,113,Australia,2 Berwick St Fortitude Valley
+Golden Shores Holiday Club,Gold Coast,4,99999,Australia,210 Marine Parade
+Homely Houses Cairns Street Brisbane,Brisbane,3,99999,Australia,15 Cairns Street
+Meriton Serviced Apartments Adelaide Street Brisbane,Brisbane,5,142,Australia,485 Adelaide Street (between Macrossan & Boundary Street)
+Oaks Charlotte Towers,Brisbane,4,107,Australia,128 Charlotte Street
+Pethers Rainforest Retreat,Mount Tamborine,4.5,304,Australia,28b Geissmann Street North Tamborine
+Southport Waters,Gold Coast,3,99999,Australia,2 Barney Street
+Spicers Balfour Hotel,Brisbane,5,287,Australia,37 Balfour Street
+Surfers Paradise Marriott Resort Hotel Gold Coast,Gold Coast,5,188,Australia,158 Ferny Avenue
+The Docks On Goodwin Apartments,Brisbane,4,169,Australia,15 Goodwin Street Kangaroo Point
+The Sebel King George Square Brisbane,Brisbane,4,168,Australia,Corner Ann & Roma Street
+Witches Falls Cottages,Mount Tamborine,4,278,Australia,Cnr Main Western Road & Hartley Road North Tamborine
+Woodduck Backpackers,Brisbane,2,22,Australia,390 Upper Roma Street
+Catalinas Park Hotel,San Miguel de Tucuman,5,121,Argentina,Av. Soldati 380
+Hotel Mediterraneo San Miguel de Tucuman,San Miguel de Tucuman,3,81,Argentina,24 De Setiembre 364
+Villa Vicuna,Cafayate,4,155,Argentina,Belgrano 76
+Afrique Boutique Ruimsig,Johannesburg,4,114,South Africa,343 Equestrian Road Ruimsig (Westrand) Roodepoort
+Kapstok Guest House Parys,Parys,3,99999,South Africa,55 Kruis Street
+The Inn On Pine Guest House Johannesburg,Johannesburg,5,84,South Africa,267 Pine Avenue Ferndale
+Ascot Hotel Johannesburg,Johannesburg,4,76,South Africa,59 Grant Avenue Norwood
+Bryan Manor Guest House,Johannesburg,4,99999,South Africa,34 Queens Road Bryanston
+City Lodge - Sandton/Morningside,Johannesburg,3,109,South Africa,Corner Hill and Rivonia Roads Morningside Sandton
+Claires Of Sandton,Johannesburg,4,82,South Africa,42 8th Street Parkmore Sandton
+Crowthorne Corporate Resort,Johannesburg,1,99999,South Africa,Whisken Road Midrand
+Formula 1 Hotel Johannesburg Edenvale,Edenvale,1,99999,South Africa,103 Boeing Road East
+Foxwood House Hotel Johannesburg,Johannesburg,3,99999,South Africa,13 5th Street Houghton
+Garden Court Eastgate,Johannesburg,3,163,South Africa,Ernest Oppenheimer Avenue Bruma
+Goodnight Guest Lodge and Conference Centre,Bedfordview,3,99999,South Africa,13 Arterila Road West
+Impangele,Benoni,2,101,South Africa,8 The Drive
+Intercontinental Airport Sun,Kempton Park,5,433,South Africa,Box 200jhb International Airport
+InterContinental Johannesburg Sandton Towers,Johannesburg,5,249,South Africa,Corner of Maude and 5th Streets
+Khwai River Resort,Johannesburg,2,99999,South Africa,34 Victoria Road Sandton
+Midrand Conference Centre,Johannesburg,4,85,South Africa,661 Pendulum Road Halfway House Ext 12 Midrand
+President Lodge,Edenvale,4,71,South Africa,9 President Road Eastleigh
+Rustic Rose Guest House,Boksburg,4,74,South Africa,63 Venus Street Atlasville
+Sandton Boutique Hotel - 28A On Oxford,Johannesburg,4,108,South Africa,28 A Oxford Avenue Sandhurst
+Sandton Sun,Johannesburg,5,184,South Africa,Corner Fifth and Alice Streets Sandton
+Sunnyside Park Hotel,Johannesburg,4,72,South Africa,Princess of Wales Terrace Parktown
+Surreal Eco Boutique Hotel & Spa,Johannesburg,4,99999,South Africa,18 Old Kilcullen Road Bryanston
+The Fairlawns Boutique Hotel & Spa,Johannesburg,5,233,South Africa,Alma Road (Off Bowling Avenue) Morningside Manor Ext 6 Sandton
+The Nicol Hotel Bedfordview,Bedfordview,3,94,South Africa,Nicol Street
+Town Lodge Sandton-Grayston Drive,Johannesburg,3,89,South Africa,Corner Grayston Drive and Webber Road Sandown Sandton
+Hawane Resort,Mbabane,3,123,Swaziland,209 Timbatine Farm Road
+Legends Backpacker Lodge,Ezulwini,1,99999,Swaziland,Opposite Mantenga Craft Centre Mantenga Falls Road
+Motel Carnarvon,Roma,3.5,99999,Australia,18 Northern (Injune) Road
+Coverdales Bed & Breakfast,Eumundi,4.5,164,Australia,99-105 Jocelyn Drive
+Lilyponds Holiday Park Mapleton,Mapleton (Queensland),3.5,30,Australia,26 Warruga Street
+Montville Attic,Montville (Australia),3,164,Australia,146 Main Street
+Montville Grove Cottages (Australia),Montville (Australia),4,277,Australia,318 Western Avenue
+70 Noosa Parade,Noosa,4.5,354,Australia,70 Noosa Parade Noosa Heads
+Accommodation Rimini by the River - Noosa,Noosa,4.5,118,Australia,7-15 Edward Street
+Adelong Court,Caloundra,3,99999,Australia,12 Adelong Crescent Buddina
+Alex Beach House,Alexandra Headland,4,824,Australia,23 Juan Street
+Banyandah Towers Resort Maroochydore,Maroochydore,3.5,99999,Australia,150 Duporth Avenue
+Bluewater Point Apartments,Caloundra,4,179,Australia,11-13 Nicklin Way Minyama
+Caribbean Resort Mooloolaba,Mooloolaba,3,115,Australia,17-19 Brisbane Road
+Catalina Resort Maroochydore,Maroochydore,4,103,Australia,47 Sixth Avenue
+Coolum Motel,Coolum Beach,3,69,Australia,1862 David Low Way (corner off Ann St)
+Cove Point Private Holiday Apartment,Noosa,4.5,228,Australia,18 Park Road Noosa Heads
+Nirvana Luxor Boutique Resort & Retreat Coolum Beach,Coolum Beach,4,99999,Australia,Corner David Low Way & Tanah Street East
+Noosa Springs Resort,Noosa,4,162,Australia,Links Drive Noosa Heads
+Noosa Sun Motel & Holiday Apartments,Noosa,3,108,Australia,131 Gympie Terrace
+Seacove Resort,Coolum Beach,4,89,Australia,1890 David Low Way
+Seafarer Chase Holiday Apartments Caloundra,Caloundra,3.5,81,Australia,41 Canberra Terrace
+South Pacific Resort Noosa,Noosa,4.5,157,Australia,179 Weyba Road Noosaville
+Sun Lagoon Resort Noosa,Noosa,3.5,117,Australia,1 Quamby Place Noosa Heads
+Surf Dance,Coolum Beach,3.5,90,Australia,29-33 Coolum Terrace
+Tea Trees Private Holiday Apartment,Noosa,3.5,148,Australia,1 Mitti Street Noosa Heads
+The Mirage Alexandra Headland,Alexandra Headland,4,169,Australia,6 Mari Street
+Tingirana Apartments Noosa,Noosa,5,99999,Australia,25 Hastings Street
+Sala de Payogasta,Cachi (Salta),3,78,Argentina,Ruta Nacional N¬∞40 Km 4510
+Parana,Asuncion,3,99999,Paraguay,25 de Mayo Esq Caballero
+Posada Del Cielo,Asuncion,3,99999,Paraguay,Del Maestro 1416 y Dr. Morra
+Bourbon Cataratas Convention Resort,Foz do Iguacu,5,209,Brazil,Rodovia Das Cataratas Km 2 5
+Casa Yaguarete B&B Puerto Iguazu,Puerto Iguazu,1,76,Argentina,Avenida Posadas y El Dorado - Zona de Granjas
+Complejo Supara Cataratas Bungalows Puerto Iguazu,Puerto Iguazu,3,99999,Argentina,Palo Rosa S / N Ribera del Paran√°
+Complejo Turistico Americano,Puerto Iguazu,3,99999,Argentina,Ruta 12 Km 5
+Hotel Cataratas,Puerto Iguazu,5,97,Argentina,Ruta 12 Km 4
+Hotel Foz do Iguacu,Foz do Iguacu,3,88,Brazil,Avenida Brasil 97
+Hotel Villa Canoas,Foz do Iguacu,2,46,Brazil,Avenida Republica Argentina 926
+Iguassu Express Hotel,Foz do Iguacu,3,48,Brazil,Av. Das Cataratas 2500
+Kacique Salvatti,Foz do Iguacu,3,99999,Brazil,Rua Martins Pena 269
+Mabu Thermas & Resorts,Foz do Iguacu,4,186,Brazil,Av. das Cataratas 3175
+Marica B&B,Foz do Iguacu,2,63,Brazil,Rua Gregorio Dotto 118
+Passaros Suite Hotel Puerto Iguazu,Puerto Iguazu,3,85,Argentina,Tareferos y Caraguat√°
+San Rafael Hotel,Foz do Iguacu,3,57,Brazil,Almirante Barroso 1660 Centro
+Fast Sleep Guarulhos,Sao Jose dos Pinhais,3,99999,Brazil,Av Rocha Pombo s/n SL31 2 Aeroporto Internacional Afonso Pena
+Nikko Hotel Curitiba,Curitiba,4,75,Brazil,Rua Barao do Rio Branco 546
+San Juan Charm Curitiba,Curitiba,4,128,Brazil,Rua Barao Branco 354
+A Lala Lodge Centurion,Centurion,4,81,South Africa,196 Edinburgh Road Clubview
+Aandbloem Guest House,Centurion,4,75,South Africa,44 Janet Road
+Constantia Manor Guest House Pretoria,Pretoria,4,65,South Africa,521 General Louis Botha Avenue Constantia Park
+Holiday Inn Express Pretoria Sunnypark,Pretoria,3,70,South Africa,Corner Jeppe Street and Trevenna Street Sunnyside
+Lapalosa Lodge Centurion,Centurion,4,99999,South Africa,248A Glover Avenue
+Lombardy Boutique Hotel & Conference Centre,Pretoria,5,118,South Africa,Plot No 4 Lynnwood Road Tweefontein
+Sekelbos Guesthouse Centurion,Centurion,3,99999,South Africa,1 Sekelbos Street Eldoraigne
+Thats It Guest Home,Pretoria,3,87,South Africa,5 Brecher Street Clydesdale
+Protea Hotel Highveld,Witbank,4,127,South Africa,Financial Square cnr. Mandela Drive & Woltemade St
+Emnotweni Sun,Nelspruit,3.5,99999,South Africa,15 Government Boulevard Riverside Park Ext.1
+Loeries Call Guest House,Nelspruit,5,90,South Africa,2 Du Preez Street
+Peebles Country Retreat,Dullstroom,5,143,South Africa,Bosman Street
+Belvedere-On-River,Malelane,3,57,South Africa,772 Groot Jagarend Street
+Du Bois Lodge,Marloth Park,3,51,South Africa,4604 Eland Street
+Orchards Farm Cottages Komatipoort,Komatipoort,3,82,South Africa,Portion 32 of Farm Lebombo JU 186
+Perrys Bridge Hollow,Hazyview,4,93,South Africa,R40 Main Road
+Somersvreugde Guesthouse,White River,4,48,South Africa,13a Maluti Street Parkville
+Longitude 131 Lodge,Yulara,5,1676,Australia,Yulara Drive
+Australiana Top Tourist Park Hervey Bay,Hervey Bay,4.5,77,Australia,295 Boat Harbour Drive
+Lisianna Apartments Hervey Bay,Hervey Bay,3,94,Australia,338 Esplanade Scarness
+Maryborough Motel and Conference Centre,Maryborough,3,88,Australia,298 Walker Street
+Palace Backpackers,Hervey Bay,3,24,Australia,184 Torquay Road Scarness
+White Crest Luxury Apartments,Hervey Bay,4,112,Australia,397 Esplanade
+Debbies Place,Rainbow Beach,4,101,Australia,30 Kurana Stree
+Dolphin Waters Apartment Tin Can Bay,Tin Can Bay,4,99999,Australia,40-41 The Esplanade
+Altos de la Vina,San Salvador de Jujuy,4,130,Argentina,Av.Pasquini Lopez 50
+Gran Hotel Presidente,Salta,4,81,Argentina,Av Belgrano 353 (A4400 Awb)
+Hotel Salta,Salta,4,94,Argentina,Buenos Aires 1
+Munay Salta,Salta,2,54,Argentina,San Mart√≠n 656
+Rincon del Valle,San Salvador de Jujuy,2,70,Argentina,Nahuel Huapi 558
+Camelthorn Kalahari Lodge Mariental,Mariental,3,128,Namibia,Intu Afrika Kalahari Game Reserve District road D1268
+Peermont Mondior Gaborone,Gaborone,4,201,Botswana,Corner Mobuto And Maratadiba D The Village
+Earthsong Lodge Mookgophong,Mookgophong,5,99999,South Africa,Vosbal Farm Marken Road
+Mutapa Hotel & Resorts,Mokopane,4,137,South Africa,Farm 809 Delagoa Marken Rd
+Ezulwini Game Lodge,Hoedspruit,4,99999,South Africa,Ezulwini Game Lodges Balule Nature Reserve
+Mohlabetsi Safari Lodge,Hoedspruit,4,520,South Africa,Balule Nature Reserve
+Shiduli Private Game Lodge Hoedspruit,Hoedspruit,4,303,South Africa,Karongwe Game Reserve Road 36
+Shumbalala Game Lodge Hoedspruit,Hoedspruit,5,1782,South Africa,Thornybush Game Reserve
+Alexandra Apartments,Bundaberg,4,126,Australia,124 Dr Mays Road
+Country Comfort Bundaberg,Bundaberg,4,103,Australia,73 Takalvan Street
+Don Pancho Beach Resort,Bargara,3.5,99999,Australia,58-62 Miller Street
+Hotel Terrado Suites Antofagasta,Antofagasta,4,179,Chile,Baquedano 015
+Casa De Piedra,Purmamarca,3,113,Argentina,Pantaleon Cruz 6
+Waira Hostel,Tilcara,1.5,61,Argentina,Padilla 596
+Concepcion Palace Hotel,Concepcion (Paraguay),3,99999,Paraguay,Mariscal Lopez 399 esq. Eugenio A. Garay
+Hotel Lago das Pedras,Apucarana,4,76,Brazil,Br 369 Km 197
+Ibis Maringa,Maringa,3,99999,Brazil,Avenida Quinze de Novembro 129
+3Dogs Hostel,Sao Paulo,2,19,Brazil,Rua Cel. Artur God√≥i 51
+Bristol Multy QI Ibirapuera,Sao Paulo,3,99999,Brazil,Avenida Ibija√∫ 364 - Moema
+Caesar Park/Caesar Business Sao Paulo International Airport,Guarulhos,4,134,Brazil,Rodovia Helio Smith S/N
+Estanplaza Funchal - Faria Lima,Sao Paulo,4,119,Brazil,Rua Funchal 281
+Golden Tulip Paulista Plaza,Sao Paulo,4,174,Brazil,Alameda Santos 85 Jardins
+Hotel Avenida Palace,Santos,3,99999,Brazil,Av. Presidente Wilson 10
+Ibis Santos,Santos,1.5,99999,Brazil,Washington Luiz 565 Torre II Boqueirao Santos
+Landmark Residence,Sao Paulo,4,128,Brazil,Alameda Ja√∫ 1607
+LOpera Hotel,Sao Paulo,4,97,Brazil,Av. Pedroso de Moraes 323 Pinheiros
+Luz Plaza,Sao Paulo,4,113,Brazil,Rua Prates 145
+Matiz Manhattan,Sao Paulo,4,115,Brazil,Rua Haddock Lobo 867
+Mercure Apartments Guarulhos Aeroporto,Guarulhos,3,96,Brazil,Rua Barao de Maua 450 Centro
+Mercure Hotel Bienal Sao Paulo,Sao Paulo,3,89,Brazil,Rua Salto 70
+Mercure Hotel Pinheiros Sao Paulo,Sao Paulo,3,82,Brazil,Rua Capote Valente 500
+San Michel Hotel,Sao Paulo,3,89,Brazil,Largo do Arouche 200
+Terra Nobre Plaza Hotel,Sao Paulo,3,59,Brazil,Rua Bar√£o De Campinas 146
+Zen Residence,Sao Paulo,1.5,99999,Brazil,Rua Badia Kappaz Sabbag 59C - Ch√°cara Flora Santo Amaro
+Aloha Surf Camp,Ubatuba,1,43,Brazil,Rua Trinta e Sete 67
+Hotel Pousada Ancoradouro,Ubatuba,3,108,Brazil,Estrada Caragua-Ubatuba Km 56
+Hotel Pousada Vitoria Caragua,Caraguatatuba,1,59,Brazil,Avenida Presidente Castelo Branco 129
+Novotel Sao Jose Dos Campos,Sao Jose dos Campos,4,86,Brazil,Avenida Dr Nelson D Avila 2200
+Pousada Aporan,Ilhabela,2,70,Brazil,Rua Jacob Eduardo Toedtli 218 - Itaquanduba
+Pousada Cavalo Marinho Ubatuba,Ubatuba,2,82,Brazil,Rua Guarani 757
+Pousada Marazul Ubatuba,Ubatuba,3,76,Brazil,Rua Jos√© de Alencar 160 - Praia do Itagu√°
+Pousada Rafimar,Sao Sebastiao,2.5,81,Brazil,Av. Cel. Jos√© Vicente De Faria Lima 71
+Agua Viva Pousada,Paraty,2.5,76,Brazil,Rua Jos√© Vieira Ramos 13
+Misti Chill Paraty Hostel & Pousada,Paraty,3,71,Brazil,Rua Orlando Carpinelli 3 - Praia do Pontal
+Pousada Aguas de Paratii,Paraty,4,300,Brazil,R. Aguas de Paratii 8
+Pousada Aurora Hotel Paraty,Paraty,2.5,92,Brazil,Rua Tangara 8
+Pousada Casablanca,Ilha Grande,2,77,Brazil,Rua da Praia 719 - Jardins Buganville
+Pousada do Cais,Paraty,2,136,Brazil,Rua da Matriz 20
+Pousada Naus de Paraty,Paraty,2.5,87,Brazil,Rua das Ac√°cias 24 - Cabor√™
+Pousada Solsticio De Verao Paraty,Paraty,2,109,Brazil,Rua da Cachoeira s/n¬∞ Vila de Trindade
+Pousada Talism√£,Paraty,3,63,Brazil,Rua Jos√© Vieira Ramos 7
+Pousada Vistamar,Paraty,1,76,Brazil,Av. Jabaquara 103
+Villa Del Sol,Rio de Janeiro,4,181,Brazil,Estrado Do Pontal 7100
+The Outpost Hotel Kruger National Park,Kruger National Park,4,537,South Africa,Makuleke Region
+Casa Do Capitao Hotel Inhambane,Inhambane,4,99999,Mozambique,Avenida Maguiguane Balane 1
+Bayview Tower,Yeppoon,3.5,224,Australia,4 Adelaide Street
+Comfort Inn Rockhampton,Rockhampton,3.5,136,Australia,Cnr Albert & Alma Street
+Leichhardt Hotel Rockhampton,Rockhampton,4,133,Australia,Corner Bolsover and Denham Streets
+Rockhampton Plaza Hotel,Rockhampton,3.5,147,Australia,161-167 George Street
+Quest Apartments Gladstone,Gladstone,4,204,Australia,39-43 Bramston Street
+Geotel Apart Calama,Calama,2,99999,Chile,2273 Cobija
+Rancho Quitapenas,San Pedro de Atacama,1,148,Chile,Callejon Vaca Con Callejon Cha√±aral Parcela 57a Sequitor
+Hosteria de Iruya,Iruya,3,99999,Argentina,Av. San Martin
+Hotel Natural,Brotas,2,106,Brazil,Av. Lorival J. Silva Braga - 1750
+Hotel Dan Inn Anhanguera Campinas,Campinas,4,76,Brazil,Rua Benjamin Franklin 582
+Premium Norte Hotel,Campinas,3,99999,Brazil,Rua Novotel n 931
+Quality Anaca Hotel,Sao Carlos,3,131,Brazil,Avenida Sao Carlos 2690 Cent
+Kuriuwa Hotel,Camanducaia,4,328,Brazil,Rua do Bosque 309
+Pousada Palos Verdes Camanducaia,Camanducaia,4,99999,Brazil,Av Sol Nascente 960 - Monte Verde
+Pousada Pompeia,Socorro (Brazil),2.5,92,Brazil,Estrada Municipal da Pompeia 1188
+Hollywood Palace Hotel,Aparecida,3,94,Brazil,Rua Joao Alves 112
+Hotel Dias,Pouso Alegre,3,45,Brazil,Rua Adolfo Olinto 184
+Hotel Santo Graal,Aparecida,3,120,Brazil,Avenida Get√∫lio Vargas 511
+Pousada 3 Pinheiros,Campos do Jordao,2.5,106,Brazil,Rua Das Margaridas 460
+Pousada Alto da Boa Vista,Campos do Jordao,3.5,225,Brazil,Rua das Hort√™nsias 605
+Pousada Vilaregio De Campos,Campos do Jordao,1,108,Brazil,Alameda Topazio S/N
+Refugio Comodo,Campos do Jordao,1,123,Brazil,Rua Delta 95
+Vale Do Lajeado Chales,Campos do Jordao,2,104,Brazil,Rua Simplicio Ribeiro de Toledo Neto 655
+Melia Angra Marina,Angra dos Reis,4,345,Brazil,Rodovia Mario Covas (BR 101) km 488
+Pousada Praia da Ribeira Clube Angra dos Reis,Angra dos Reis,1,99999,Brazil,R. Del Rey n. 03 Praia da Ribeira
+A Catedral Bed & Breakfast Petropolis,Petropolis,2.5,81,Brazil,Rua Ipiranga 439 - Centro e Arredores
+BEST WESTERN PLUS Sol Ipanema Hotel,Rio de Janeiro,4,303,Brazil,Av Vieira Souto 320 - Ipanema
+Bomtempo Resort,Petropolis,5,353,Brazil,Estrada da Cachoeira 400
+Caesar Park Ipanema Hotel,Rio de Janeiro,5,377,Brazil,Av. Vieira Souto 460
+Casa Amarelo by Robert le Heros,Rio de Janeiro,4,204,Brazil,Rua Joaquim Murtinho 569 - Santa Teresa
+Champanhe Hotel Rio de Janeiro,Rio de Janeiro,1,53,Brazil,Rua do Senado 274
+Copa Hostel,Rio de Janeiro,2.5,37,Brazil,Av. Nossa Senhora de Copacabana 1077 - Copacabana
+Copacabana Palace by Orient-Express,Rio de Janeiro,5,375,Brazil,Avenida Atlantica 1702
+Diamond Motel Rio de Janeiro,Rio de Janeiro,3,99999,Brazil,Rua da Gloria 46
+Gloria Hotel Rio de Janeiro,Rio de Janeiro,5,99999,Brazil,Rua Do Russel 632
+Golden Tulip Regente,Rio de Janeiro,4,161,Brazil,Avenida Atlantica 3716 Copacabana
+Leblon Flat Service,Rio de Janeiro,4,99999,Brazil,R. Prof. Ant√¥nio Maria Teixeira 33
+Pousada Favela Cantagalo Rio de Janeiro,Rio de Janeiro,1,69,Brazil,Rua Saint Roman 200
+Windsor Plaza Copacabana Hotel,Rio de Janeiro,4,219,Brazil,Ave. Princesa Isabel 263 Copacabana
+Caribe Park Hotel,Cabo Frio,3,92,Brazil,Av. do Contorno 186 - Algodoal
+Estalagem do Porto,Arraial do Cabo,3,49,Brazil,Rua Santa Cruz 12
+Hotel Pousada Do Canal,Cabo Frio,3,76,Brazil,Rua Maria Rita Novelino 304
+Porto Forte Pousada,Cabo Frio,1,71,Brazil,Rua Professor Miguel Coulto 192 - Centro
+Pousada Cambuca de Cabo Frio,Cabo Frio,2,119,Brazil,Rua Florismundo Batista Machado 1
+Pousada Nau Capitania,Cabo Frio,2,99999,Brazil,Rua Da Restinga 1967
+Pousada Portoveleiro,Cabo Frio,3,99999,Brazil,Av. dos Espadartes 129
+Pousada Recanto das Tartarugas,Araruama,2,99999,Brazil,Rua Nilo Pe√ßanha 30
+Tortuga Hostel,Cabo Frio,1,70,Brazil,Rua Goias 266
+Abracadabra Pousada,Buzios,3,154,Brazil,Alto do Humait√° 13
+Buzios Beach Hostel,Buzios,1,81,Brazil,Rua dos Gravatas Numero 89
+Colonna Park,Buzios,4,125,Brazil,Praia de Jo√£o Fernandes
+Coronado Beach Hotel,Buzios,3,99999,Brazil,Praia Joao Fernandez Lotes 14 15 E 16 Quadra B
+Pousada Bella Geriba Buzios,Buzios,2,70,Brazil,Rua Vieira C√°mara 9
+Pousada Calmaria Buzios,Buzios,3,60,Brazil,Rua Tres Marias 35
+Pousada Santa Fe,Buzios,3,89,Brazil,Pra√ßa Santos Dumont 300
+Pousada Sonho Verde,Rio das Ostras,2,99999,Brazil,Rua Carlos Alberto de Carvalho 73 - Costazul
+Residencia Vila Magiosa Buzios,Buzios,2,59,Brazil,Rua Ipe 22
+Swakopmund Hotel,Swakopmund,4,256,Namibia,NR 2 BAHNHOFSTRASSE
+Oure Hotel,Ile des Pins,3,367,New Caledonia,Kanumera Bay Isle Of Pines
+Muri Beach Hideaway,Rarotonga,4,99999,Cook Islands,PO Box 3092
+Paradise Inn Rarotonga,Rarotonga,2,47,Cook Islands,Avarua Town
+Marrua Hotel,Bonito,4,100,Brazil,Rua Joana Sorta 1173
+Pousada Remanso Bonito,Bonito,3,86,Brazil,Rua Coronel Pil√°d Rebu√° 1515 - Centro
+Flat Bassano Vaccarini,Ribeirao Preto,4,99999,Brazil,Rua Bar√£o do Amazonas 788
+Pousada Praia do Sol,Pocos de Caldas,1,43,Brazil,Av. Jo√£o Pinheiro 6.901
+Pousada Aguas de Caxambu,Caxambu,1,69,Brazil,Rua Major Penha 204
+Pousada do O,Tiradentes,2,99999,Brazil,Rua do Chafariz 25 - Centro
+Pousada Ouro de Minas,Tiradentes,2,91,Brazil,Rua Jo√£o Andrade Gomes 17
+Victory Business Hotel,Juiz de Fora,4,136,Brazil,Av Independencia 1850 Sao Mateus
+Blue Beach Hotel la Reunion,Saint-Paul (Reunion),3,132,Reunion,40 Avenue de la Mer Les Filaos Saint-Gilles-Les-Bains
+Hotel Les Geraniums,Le Tampon,2,159,Reunion,RN 3 - PK 24 - Bourg Murat
+Comfort Resort Blue Pacific,Mackay,4,176,Australia,26 Bourke Street Blacks Beach
+Mackay Resort Motel,Mackay,4,132,Australia,154 Nebo Rd QLD 4741
+Hotel Arenas Blancas,Iquique,1,99999,Chile,Av. Playa Brava 3212
+Hotel Terrado Club,Iquique,4,150,Chile,Avenida Aeropuerto 2873
+Bahamas Apart Hotel,Campo Grande,4,99999,Brazil,Rua Jose Antonio 1117
+Hotel Concord Campo Grande,Campo Grande,3,60,Brazil,Avenida Calogeras 1624 - Centro
+Shelton Inn Barretos,Barretos,4,102,Brazil,Pra√ßa Francisco Barreto 260
+Hotel Solar Das Lajes,Ouro Preto,4,138,Brazil,Rua Conselheiro Quintiliano Ramos 604
+Hotel Capital,Vitoria,2,54,Brazil,Rua Dona Maria Rosa 425
+Pousada Recanto Setiba,Guarapari,2,65,Brazil,Rua Esmeralda s/n
+Dinarobin Hotel Golf & Spa,Le Morne,5,360,Mauritius,Le Morne Peninsula
+Heron Villas,Mont Choisy,3,96,Mauritius,Coastal Road
+Hibiscus Beach Resort & Spa,Grand Baie,3,121,Mauritius,Royal Road Pereybere
+Le Coco Beach,Belle Mare,3,320,Mauritius,Coastal Road
+Le Meridien Ile Maurice,Pointe aux Piments,4,220,Mauritius,Village Hall Lane
+Legends Hotel Grand Gaube,Grand Gaube,5,143,Mauritius,Pointe Rejane
+Pearle Beach Resort & Spa,Flic en Flac,3,161,Mauritius,Wolmar
+Roches Noires Residences,Roches Noires,4,171,Mauritius,Costal Road
+Tamassa Hotel,Bel Ombre,4,155,Mauritius,Coastal Road
+The Bay Hotel Black River,Black River,3,236,Mauritius,Avenue des Cocotiers La Preneuse
+Villa Mauritius Flic en Flac,Flic en Flac,5,99999,Mauritius,Flic en Flac
+Airlie Central Apartments,Airlie Beach,4,128,Australia,14 Waterson Way
+Downtown Airlie,Airlie Beach,2,108,Australia,346 Shute Harbour Road
+Hamilton Island Villas,Hamilton Island,4,99999,Australia,Casuarina 10
+Koala Adventure Island Resort South Molle Island,South Molle Island,3,100,Australia,South Molle Island
+Skiathos Hamilton Island Villas,Hamilton Island,4,455,Australia,Acacia Avenue
+Hostal Cruz de Popayan Sucre,Sucre,2,19,Bolivia,Calle Loa 881 esq. calle Col√≥n
+Hotel Monasterio,Sucre,4,49,Bolivia,Calvo N¬∞140
+Hotel Real Audiencia Sucre,Sucre,4,99999,Bolivia,Potosi Street #142
+Bristol Merit Hotel Belo Horizonte,Belo Horizonte,4,135,Brazil,Rua Dos Tamoios 341
+Liberty Palace Hotel,Belo Horizonte,3,220,Brazil,Rua Paraiba 1465
+Pousada Santuario,Caet√©,3,99999,Brazil,Rodovia Mg 435 - Km 7 S/N
+Premium Executive Hotel,Itabira,4,94,Brazil,Avenida Ver. Os√≥rio Sampaio 45
+Promenade Pancetti,Belo Horizonte,3,133,Brazil,Rua Pernambuco 1045 - Savassi
+San Diego Belo Horizonte,Belo Horizonte,4,120,Brazil,Av. Alvares Cabral 1181
+Belle Residence Hotel,Ipatinga,2,99999,Brazil,Rua Jequitiba 763
+Terrace Bay Camp,Etosha,2,99999,Namibia,C34 Skeleton Coast Hwy Terrace Bay
+Okaukuejo Resort,Etosha,3,99999,Namibia,Western Park Entrance Etosha National Park
+Rainbow Sikumi Tree Lodge Hotel,Hwange,3,377,Zimbabwe,Bordering Hwange National Park
+Cape Bay Beach Resort,Grand Baie,3.5,99999,Mauritius,The Coastal Road
+Kuxville Beach Cottages Cap Malheureux,Cap Malheureux,3,65,Mauritius,Royal Road
+Waters Edge The Strand,Townsville,4,99999,Australia,63 The Strand North Ward
+Coral Cove Apartments,Bowen,4.5,267,Australia,2B Horseshoe Bay Road PO Box 1423
+Maina Sunset,Aitutaki,2,99999,Cook Islands,PO Box 373
+Hotel Casa Beltran,Arica,3,118,Chile,Rafael Sotomayor 266
+Matiz Uberlandia,Uberlandia,4,99999,Brazil,Ruas Goias 50 Centro
+Hotel Brajas,Antananarivo,3,58,Madagascar,Lot II F 5 Ambondrona - 74 rue
+Radama Hotel Antananarivo,Antananarivo,3,34,Madagascar,22 Avenue G√©n√©ral Ramanantsoa Isoraka
+Kimberley Hotel Halls Creek,Halls Creek,3,169,Australia,9 Roberta Avenue
+InterContinental Fiji Golf Resort & Spa,Natadola,5,320,Fiji,Natadola Beach Natadola Fiji Islands
+Wellesley Resort Fiji,Korolevu,4,60,Fiji,Namaqumaqua Road PO Box 104
+Fare Suisse Tahiti,Tahiti,3,99999,French Polynesia,Rue des poilus tahitiens Quartier Buillard Paofai 98713 Papeete
+Regina Hotel Cochabamba,Cochabamba,5,43,Bolivia,Reza Street 359
+Chobe Marina Lodge,Kasane,3,752,Botswana,Private Bag K88
+The Kingdom Hotel Victoria Falls,Victoria Falls,4,178,Zimbabwe,1 Mallett Drive
+Kooljaman at Cape Leveque Cabins Broome,Broome,3,99999,Australia,PMB 8 Cape Leveque
+Ochre Moon Bed & Breakfast Broome,Broome,4,99999,Australia,13 Godwit Crescent Broome WA 6725
+Pinctada Cable Beach,Broome,5,180,Australia,10 Murray Street
+Pinctada McAlpine House,Broome,4.5,138,Australia,55 Herbert Street
+Foxwell Park,Peeramon,3.5,99999,Australia,336 Foxwell Rd
+Tablelands Motor Inn,Atherton,3,99999,Australia,2-4 Kennedy Highway Tolga
+Wongalinga Apartments Mission Beach,Mission Beach,4.5,99999,Australia,64 Reid Road
+JetSet Accommodation,Nadi,3,65,Fiji,Palm Road New Town Wailoaloa
+Beachcomber Inter-Continental Resort Bora Bora,Bora Bora,4,99999,French Polynesia,Pointe Matira
+Bora Bora Beach Resort,Bora Bora,3,99999,French Polynesia,BP 174 Bora Bora
+Hotel Matira,Bora Bora,4.5,99999,French Polynesia,Matira Point
+Raiatea Lodge Hotel,Raiatea,3,99999,French Polynesia,P.O. Box 680 Uturoa
+Amazing Home Hostel,Arequipa,2,20,Peru,Plaza Campo Redondo 100 San Lazaro Cercado
+Arequipa Inn,Arequipa,3,31,Peru,Rivero No. 412
+Casa Arequipa,Arequipa,3,89,Peru,Av. Lima 409 Vallecito
+Hotel Mamatila,Arequipa,3,35,Peru,Calle Rivero 611 / Pasaje Veliz 202
+La Posada del Puente,Arequipa,3,99999,Peru,Esq. Puente Grau/Av. Bolognesi 101
+Boutique Eco Resort & Spa Allkamari,Palca,2.5,23,Bolivia,Calle 5 S/N Koani
+El Dorado Hotel La Paz,La Paz,3,36,Bolivia,Av. Villazon S/N
+Hotel Rio Selva Yungas,Coroico,5,56,Bolivia,Huarinilla Nor Yungas
+Goiania Palace Hotel,Goiania,2,45,Brazil,A. Anhanguera 5195
+Arraial Candeia Hotel,Porto Seguro,3,57,Brazil,Al. Flamboyants 92 Arraial d Ajuda
+Hotel Fazenda Cala & Divino,Trancoso,4,381,Brazil,Estrada Trancoso/Cara√≠va Km 22
+Pousada Bahiamar Porto Seguro,Porto Seguro,2,32,Brazil,Rua Carlos Alberto Parracho 22
+Pousada Coqueiros,Porto Seguro,3,100,Brazil,Alameda Dos Flamboyants 55
+Pousada O Jardim das Margaridas Trancoso,Trancoso,2,92,Brazil,Rua Jovelino Vieira 230
+Praia Mar Hotel,Porto Seguro,3,49,Brazil,Avenida dos Navegantes 523 - Centro
+Resort Costa Brasilis,Porto Seguro,5,95,Brazil,Avenida Beira Mar 2000 Santo Andre Bahia
+Sunshine Praia Hotel,Porto Seguro,4,77,Brazil,Av Beira Mar 1200
+Trancoso Jungle Lodge,Trancoso,1.5,119,Brazil,Rua do Telegrafo 14
+Xurupita Holiday Resort Porto Seguro,Porto Seguro,4,160,Brazil,Rua B 25 Taperapuan
+63 Murphy Street Private House Port Douglas,Port Douglas,5,1115,Australia,63 Murphy Street
+Best Western Plus Cairns Central Apartments,Cairns,4.5,127,Australia,58-62 McLeod St.
+Cairns Holiday Park,Cairns,4,75,Australia,12-30 Little St
+Daintree Eco Lodge & Spa,Daintree,4,544,Australia,20 Daintree Road
+Daintree Escape,Daintree,4,99999,Australia,17 Stewart Street
+Daintree Riverview Lodges & Camp Ground,Daintree,3,101,Australia,2 Stewart Street
+Global Backpackers Central,Cairns,4,13,Australia,9b Shields St
+Holiday Inn Cairns,Cairns,4,109,Australia,121-123 The Esplanade & Florence Street PO Box 121
+Il Palazzo Boutique Apartments Hotel,Cairns,4,88,Australia,62 Abbott Street
+Jack & Newell Cairns Luxury Apartments,Cairns,4,207,Australia,27-29 Wharf Street
+Mandalay & Shalimar Luxury Beachfront Apartments,Port Douglas,5,200,Australia,Corner Garrick & Beryl Streets
+Mantra On The Inlet,Port Douglas,4,95,Australia,Corner of Macrossan & Wharf Streets
+Melaleuca Resort Palm Cove,Cairns,4,128,Australia,85-93 Williams Esplanade Palm Cove
+Meridian Port Douglas,Port Douglas,4,81,Australia,15-17 Davidson Street
+Palms at Trinity Holiday Apartments Cairns,Cairns,3,82,Australia,83-85 Moore Street Trinity Beach
+Paradise Palms Resort Cairns,Cairns,4,87,Australia,Paradise Palms Drive
+Port Douglas Retreat,Port Douglas,3,81,Australia,31-33 Mowbray Street
+Reef Palms,Cairns,3,77,Australia,41-47 Digger Street
+Rydges Tradewinds Cairns,Cairns,4,86,Australia,137 The Esplanade
+The York Beachfront Holiday Apartments,Cairns,4,137,Australia,61-63 Sims Esplanade Yorkeys Knob
+Titree Resort Holiday Apartments,Port Douglas,3,87,Australia,1-5 Barrier Street
+Villa Paradiso Beachfront Apartments Cairns,Cairns,4,110,Australia,111-113 Williams Esplanade Palm Cove
+Savusavu Hot Springs Hotel,Savusavu,2,25,Fiji,Savusavu
+El Inti Backpacker Hostel,Puno,1,11,Peru,Avenida La Torre 137
+Paiaguas Palace Hotel,Cuiaba,4,103,Brazil,Av Historiador Rubens De Mendonca 1718
+Bluepoint Suites Bonaparte,Brasilia,5,144,Brazil,Shs Quadra 02 Bloco J
+Coodardie Station Stay,Mataranka,5,99999,Australia,Stuart Highway
+Ratua Private Island,Espiritu Santo,4,331,Vanuatu,BP 396 Luganville
+Sadie Thompson Inn,Pago Pago,3,203,American Samoa,Sadie Thompson Building
+Vaoto Lodge,Ofu,1,99999,American Samoa,Ofu
+Albergue Ecologico Chalalan,Madidi National Park,2,274,Bolivia,Parque Nacional Madidi
+Pousada Camelot Inn,Alto Para√≠so de Goi√°s,2,99999,Brazil,Rodovia GO 118 Km 168 s/n
+Casa Andina Classic - Chincha Sausal,Chincha Alta,3,79,Peru,Panamericana Sur Km. 197.5
+Pumawanka Hostal,Urubamba,1.5,18,Peru,Av. Convencion 289
+Tambo del Inka a Luxury Collection Resort & Spa,Urubamba,5,223,Peru,Avenida Ferrocarril S/N Sacred Valley
+Amaru Hostal,Cusco,3,48,Peru,Cuesta de San Blas 541
+Apartaments & Suites Casa de Campo,Cusco,2.5,120,Peru,Tandapata 300 San Blas
+Chakana Hostel Cusco,Cusco,2,29,Peru,Av. Huascar 246-B - Wanchaq
+Del Prado Inn,Cusco,3,55,Peru,Calle Suecia 310
+Flying Dog Hostel Cusco,Cusco,2,99999,Peru,Calle Choquechaca 469
+Golden Inca Hotel Cusco,Cusco,3,29,Peru,Calle Retiro 435
+Hostal Girasoles Cusco,Cusco,2,29,Peru,Calle Recoleta Angosta-Pasaje Pantaccalle 388 San Blas
+Hostal Mallqui Cusco,Cusco,2,40,Peru,Calle Nueva Alta 444
+Hostal San Blas Inn,Cusco,2.5,50,Peru,Tandapata 670
+Hostal Tika Wasi,Cusco,3,30,Peru,Calle Tandapata N¬™ 491 esq. 7 angelitos
+Hotel Cahuide,Cusco,3,40,Peru,Calle Saphi N¬∫ 845
+Hotel Los Portales Cusco,Cusco,3,79,Peru,Av. El Sol 602
+Inkarri Hostal Cusco,Cusco,3,38,Peru,Calle Collacalle 204
+Inkaterra La Casona,Cusco,5,551,Peru,Plaza Nazarenas 113
+Mister Inkas II,Cusco,3,35,Peru,Av. Manco Capac 420 - Wanchaq
+Pirwa Backpackers Colonial,Cusco,1,99999,Peru,Plaza San Francisco 360
+Quinsapata Hostal Cusco,Cusco,2,99999,Peru,Pasaje Victoria 207 - Santiago
+Quinua Villa Boutique,Cusco,3,99,Peru,Pasaje Santa Rosa A-8 San Blas
+Residencial Plaza Espana 1,Cusco,2.5,34,Peru,Calle Abraham Valdelomar B-6 Santa M√≥nica (Parque Espa√±a)
+Rimacpampa Hostal Cusco,Cusco,2,35,Peru,Limacpampa Chico # 493
+San Agustin Internacional Hotel Cusco,Cusco,3,81,Peru,Calle Maruri 390
+Siete Ventanas,Cusco,3,99999,Peru,Calle Siete Ventanas N¬∞ 207
+Tampu Hotel,Cusco,3,61,Peru,Av. El Sol 341
+Portal Rio Una Hotel,Valen√ßa (Bahia),4,99999,Brazil,Rua Maestro Barrinha s/n
+Bahia Park Hotel,Salvador,3,63,Brazil,Largo da Mariquita 42 - Rio Vermelho
+Casa Mestica,Ilha de Boipeba,2,87,Brazil,Rua da Praia - Velha Boipeba
